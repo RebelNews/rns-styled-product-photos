@@ -1,0 +1,47 @@
+# Short jobs such as collection order. Like jobs.yml, these run only after they are merged into main,
+# so every one is reviewed in a pull request first. They have their own queue so they never wait behind a long photo job.
+name: quick
+on:
+  push:
+    branches: [main]
+    paths: ['quick/*.py']
+permissions:
+  contents: write
+concurrency: quick
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools
+            quick
+            results
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install -q requests
+      - name: Run quick jobs that have no result yet
+        env:
+          SHOPIFY_STORE: the-rebel-store.myshopify.com
+          SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
+          SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+        run: |
+          mkdir -p results
+          for f in quick/*.py; do
+            n=quick_$(basename "$f" .py)
+            if [ ! -f "results/$n.log" ]; then
+              PYTHONPATH=tools timeout 1500 python "$f" > "results/$n.log" 2>&1 || echo "EXIT $?" >> "results/$n.log"
+              tail -n 5 "results/$n.log"
+            fi
+          done
+      - name: Save results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add results
+          git commit -q -m "Quick job results" || exit 0
+          git pull -q --rebase
+          git push -q
