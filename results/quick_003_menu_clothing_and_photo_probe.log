@@ -1,0 +1,26 @@
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+clothing collection created (automatic, by product type) gid://shopify/Collection/513275035782
+published to Online Store
+menu updated: Clothing -> /collections/clothing; Posters removed from Mugs & Gifts (now Film Posters under Books & Film Merch); Films -> Film Posters (/collections/art)
+Posters collection renamed Film Posters
+mug 15499176083590 | printful product 300 Black Glossy Mug (11 oz) | files [('default', False, 5400, 2100), ('preview', False, 2000, 2000)] | placements {'default': 307} | option groups ['Flat', 'Lifestyle', 'Lifestyle 2', 'Lifestyle 3', 'Templates'] | options ['Front', 'Handle on Left', 'Handle on Right', 'default']
+mug style Flat -> completed 3 images
+mug style Lifestyle -> completed 1 images
+mug style Lifestyle 2 -> completed 1 images
+mug style Lifestyle 3 -> completed 3 images
+mug Templates task failed 400 {'code': 400, 'result': 'No variants to generate. Option filters may exclude all variants or variants are not available. Alternatively, make
+hat 6880348930182 | printful product 396 Otto Cap 104-1018 Distressed Dad hat (Black) | files [('default', False, 706, 840), ('back', False, 1837, 879), ('preview', False, 2000, 2000)] | placements {'embroidery_front_large': 75, 'embroidery_back': 76, 'embroidery_left': 76, 'embroidery_right': 76} | option groups ['Default', 'Flat', 'Flat Lifestyle', 'Halloween', "Men's", "Men's Lifestyle", "Men's Lifestyle 2", 'Product details', 'Template', "Women's", "Women's 2", "Women's Lifestyle", "Women's Lifestyle 2", "Women's Lifestyle 3"] | options ['Back', 'Front', 'Front 2', 'Left', 'Left Back', 'Left Front', 'Left Side', 'Product details', 'Right', 'Right Front', 'Right Side']
+hat style Default -> completed 4 images
+hat style Flat -> completed 6 images
+hat style Flat Lifestyle -> completed 6 images
+hat style Halloween -> completed 2 images
+hat style Men's -> completed 4 images
+hat style Men's Lifestyle -> completed 2 images
+sticker 15497901408390 | printful product 358 Kiss Cut Stickers (3″×3″in) | files [('default', False, 2379, 3559), ('preview', False, 1000, 1000)] | placements {'default': 183} | option groups ['Default', 'Halloween', 'Holiday season', 'Lifestyle', 'Lifestyle 2', 'Lifestyle 3', 'Lifestyle 4', 'Lifestyle 5', 'Lifestyle 6', 'Lifestyle 7', 'Lifestyle 8', 'Placeholder', 'Red, white & blue', 'Spring/summer vibes', 'Template', "Valentine's Day"] | options ['Christmas', 'Christmas 2', 'Default', 'Front', 'Halloween', 'Halloween 2', 'Lifestyle 1', 'Lifestyle 2', 'Lifestyle 3', 'Red, white & blue', 'Spring/Summer', 'Spring/Summer 2', 'Template', "Valentine's Day", "Valentine's Day 2"]
+sticker style Default -> completed 1 images
+sticker style Halloween -> completed 2 images
+sticker style Holiday season -> completed 2 images
+sticker style Lifestyle -> completed 3 images
+sticker style Lifestyle 2 -> completed 1 images
+sticker style Lifestyle 3 -> completed 1 images
+DONE
