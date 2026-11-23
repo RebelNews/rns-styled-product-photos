@@ -11,7 +11,7 @@ def has_art(rgba):
     vals, cnt = np.unique(key, return_counts=True); base = px[key == vals[cnt.argmax()]].mean(0)
     return float((np.abs(px - base).sum(1) > 150).mean()) >= 0.006
 Q = '''query($id:ID!){product(id:$id){title productType collections(first:40){nodes{handle}} featuredMedia{id}
- media(first:80){nodes{id alt ... on MediaImage{image{url}}}}
+ media(first:80){nodes{id alt ... on MediaImage{image{url width height}}}}
  variants(first:100){nodes{id selectedOptions{name value} media(first:1){nodes{id}}}}}}'''
 def plan(colours, media_of, users, gallery, featured):
     """Decide which photo each colour gets when colours share a photo. Pure function, no network.
@@ -35,7 +35,9 @@ def staged(jpg):
     return t['resourceUrl']
 def one(pid, only=None, shared=False, skip_done=False):
     """only: set of colour names to do (None = all). shared: also fix colours whose variants share a photo with another colour.
-    skip_done: leave colours whose photo already carries the "<title> - <colour>" alt text these jobs write."""
+    skip_done: leave colours whose own photo is already a styled one. Styled photos are told apart by their size
+    (styled.OUT square); Printful's own mock-ups are 1000 or 2000 px. Alt text is no guide: Printful writes
+    "<title> - <colour>" too, which is how job 008 came to skip colours that were still plain."""
     p = shop.gql(Q, {'id': f'gid://shopify/Product/{pid}'})['product']
     cols = [c['handle'] for c in p['collections']['nodes']]
     colour_of, media_of, users, vids_of = {}, {}, {}, {}
@@ -52,12 +54,13 @@ def one(pid, only=None, shared=False, skip_done=False):
         col = colour_of.get(str(sv.get('external_id')))
         if col and sv.get('synced') and col not in reps and (only is None or col in only): reps[col] = sv
     if not reps: print(pid, 'no colours matched'); return 0
-    if skip_done:
-        alt_of = {m['id']: (m.get('alt') or '') for m in p['media']['nodes']}
-        done = [c for c in reps if len(media_of.get(c) or ()) == 1 and len(users[next(iter(media_of[c]))]) == 1 and alt_of.get(next(iter(media_of[c]))) == f"{p['title']} - {c}"]
-        for c in done: reps.pop(c)
-        if not reps: print(pid, 'already done:', len(done), 'colours'); return 0
     missing = sorted(set(colour_of.values()) - set(reps)) if only is None else sorted(set(only) - set(reps))
+    if skip_done:
+        size_of = {m['id']: ((m.get('image') or {}).get('width'), (m.get('image') or {}).get('height')) for m in p['media']['nodes']}
+        done = [c for c in reps if len(media_of.get(c) or ()) == 1 and len(users[next(iter(media_of[c]))]) == 1 and size_of.get(next(iter(media_of[c]))) == (styled.OUT, styled.OUT)]
+        for c in done: reps.pop(c)
+        if done: print(pid, 'already styled:', len(done), 'colours', '| to do:', sorted(reps), flush=True)
+        if not reps: return 0
     if missing:
         svs = j['result']['sync_variants']
         print(pid, 'colours with no synced Printful variant:', missing, '| sync variants', len(svs), '| synced', sum(1 for x in svs if x.get('synced')), '| shopify variants', len(colour_of), '| sample names', [x.get('name') for x in svs if not x.get('synced')][:3], flush=True)
