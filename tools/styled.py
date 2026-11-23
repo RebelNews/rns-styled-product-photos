@@ -3,7 +3,7 @@
 import os,sys,json,glob,io,subprocess
 import numpy as np, cv2
 from PIL import Image, ImageFilter
-BGDIR='/home/claude/rebelnews/rns-styled-product-photos/bg/'
+BGDIR=os.environ.get('BGDIR', os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'bg') + '/')
 OUT=1600
 _bg={}
 def bgs():
