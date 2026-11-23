@@ -1,0 +1,12 @@
+<!--[if mso]>
+<noscript><xml><o:OfficeDocumentSettings>
+<o:PixelsPerInch>96</o:PixelsPerInch>
+</o:OfficeDocumentSettings></xml></noscript>
+<style>
+body,table,td,div,p,a,span,h1,h2,strong{
+font-family:Trebuchet MS,Arial,sans-serif !important;
+mso-hyphenate:none;}
+.rns-card img{display:inline !important;}
+a.rns-shop{text-decoration:underline !important;}
+</style>
+<![endif]-->
