@@ -10,7 +10,7 @@ concurrency: jobs
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
         with:
@@ -34,7 +34,7 @@ jobs:
           for f in jobs/*.py; do
             n=$(basename "$f" .py)
             if [ ! -f "results/$n.log" ]; then
-              PYTHONPATH=tools timeout 6000 python "$f" > "results/$n.log" 2>&1 || echo "EXIT $?" >> "results/$n.log"
+              PYTHONPATH=tools timeout 20400 python "$f" > "results/$n.log" 2>&1 || echo "EXIT $?" >> "results/$n.log"
               tail -n 5 "results/$n.log"
             fi
           done
