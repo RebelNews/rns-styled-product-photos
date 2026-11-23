@@ -1,0 +1,24 @@
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+15491039887494 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491039887494 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491039887494 Dark Grey Heather print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491039887494 Athletic Heather print file 1118966138 front_large silent-night-not-on-our-watch-light.png preview-only | all types ['front_large', 'preview']
+15491039887494 White print file 1118966138 front_large silent-night-not-on-our-watch-light.png preview-only | all types ['front_large', 'preview']
+15491039887494 Black -> snowroad
+15491039887494 Navy -> redpaper
+15491039887494 Dark Grey Heather -> xmas_plaid
+15491039887494 Athletic Heather -> xmas_gifts
+15491039887494 White -> xmas_snow
+15491039887494 swapped 5
+15491581051014 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491581051014 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491581051014 Forest Green print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491581051014 Athletic Heather print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491581051014 White print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491581051014 Navy -> snowroad
+15491581051014 Black -> redpaper
+15491581051014 skip colour Forest Green mock-up came back blank
+15491581051014 Athletic Heather -> xmas_gifts
+15491581051014 White -> xmas_snow
+15491581051014 swapped 4
+TOTAL swapped 9 errors 0
