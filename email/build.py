@@ -87,7 +87,7 @@ STYLE = '''<style>
 :root{color-scheme:dark;supported-color-schemes:dark;}
 body{margin:0;padding:0;background:#040707;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
 table{border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt;}
-img{border:0;max-width:100%;height:auto;display:block;-ms-interpolation-mode:bicubic;}
+img{border:0;max-width:100%;height:auto;-ms-interpolation-mode:bicubic;}
 a{color:#FEC70A;}
 a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !important;}
 .rns-body{font-family:FONT;font-size:16px;line-height:25px;color:#E4E6E8;}
@@ -98,7 +98,7 @@ a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !importa
 .rns-body strong{color:#FFFFFF;}
 .rns-btn{display:inline-block;background:#DE1F3E;color:#FFFFFF !important;font-weight:700;font-size:16px;letter-spacing:.05em;text-transform:uppercase;text-decoration:none;border-top:15px solid #DE1F3E;border-bottom:15px solid #DE1F3E;border-left:30px solid #DE1F3E;border-right:30px solid #DE1F3E;}
 .rns-card{font-family:FONT;text-align:center;padding:8px;}
-.rns-card img{margin:0 auto 10px;}
+.rns-card img{display:block;margin:0 auto 10px;}
 .rns-card .rns-name{font-size:15px;font-weight:700;color:#FFFFFF;line-height:1.3;}
 .rns-card .rns-price{font-size:15px;font-weight:700;color:#FEC70A;margin:4px 0 8px;}
 .rns-card .rns-note{font-size:13px;line-height:1.45;color:#B4B8BC;margin:0 0 8px;}
@@ -106,7 +106,7 @@ a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !importa
 .rns-code{background:#15181C;border:2px dashed #FEC70A;padding:14px 12px;text-align:center;font-size:17px;font-weight:700;letter-spacing:.02em;color:#FFFFFF;margin:0 0 18px;}
 .rns-deadline{background:#0C2A1A;border:2px solid #2F8F4E;padding:14px 12px;text-align:center;font-size:17px;font-weight:700;letter-spacing:.02em;color:#FFFFFF;margin:0 0 18px;}
 .rns-deadline span{display:block;font-size:13px;font-weight:400;letter-spacing:0;color:#C9E7D3;margin-top:4px;}
-.rns-body img.rns-divider{margin:26px auto;}
+.rns-body img.rns-divider{display:block;margin:26px auto;}
 @media only screen and (max-width:620px){
 .rns-wrap{width:100% !important;}
 .rns-pad{padding:22px 16px !important;}
@@ -122,7 +122,7 @@ a[x-apple-data-detectors]{color:inherit !important;text-decoration:none !importa
 </style>'''.replace('FONT', FONT)
 
 def xmas_theme():
-    s = open('/home/claude/rns-styled-product-photos/email/christmas_promo_v2.html').read()
+    s = open(__import__('os').path.join(__import__('os').path.dirname(__import__('os').path.abspath(__file__)),'christmas_base.html')).read()
     s = re.sub(r'<!--\[if mso\]><noscript>.*?<!\[endif\]-->\n', '', s, flags=re.S)
     s = re.sub(r'<style>.*?</style>\n<!--\[if mso\]>.*?<!\[endif\]-->', lambda m: STYLE + '\n' + MSO, s, count=1, flags=re.S)
     s = s.replace("'Futura PT','Jost','Trebuchet MS',Arial,Helvetica,sans-serif", FONT)
