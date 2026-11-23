@@ -19,6 +19,8 @@ jobs:
             tools
             quick
             results
+            posters/posters.json
+          sparse-checkout-cone-mode: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -28,6 +30,7 @@ jobs:
           SHOPIFY_STORE: the-rebel-store.myshopify.com
           SHOPIFY_CLIENT_ID: ${{ secrets.SHOPIFY_CLIENT_ID }}
           SHOPIFY_CLIENT_SECRET: ${{ secrets.SHOPIFY_CLIENT_SECRET }}
+          PRINTFUL_TOKEN: ${{ secrets.PRINTFUL_TOKEN }}
         run: |
           mkdir -p results
           for f in quick/*.py; do
