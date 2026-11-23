@@ -1,0 +1,17 @@
+colours ['Black', 'Navy', 'Dark Grey Heather', 'Athletic Heather', 'White']
+print file keys ['created', 'dpi', 'filename', 'hash', 'height', 'id', 'is_temporary', 'message', 'mime_type', 'options', 'preview_url', 'size', 'status', 'stitch_count_tier', 'thumbnail_url', 'type', 'url', 'visible', 'width'] | has url True | size 3600 4800 | dpi 72
+option_groups ['Collage', 'Collage Ghost', "Couple's", 'Flat', 'Flat 2', 'Flat Lifestyle', 'Folded', 'Ghost', 'Ghost 2', 'Ghost 3', 'Halloween', 'Holiday season', 'Labels', "Men's", "Men's 2", "Men's 3", "Men's 4", "Men's 5", "Men's Lifestyle", "Men's Lifestyle 2", "Men's Lifestyle 3", "Men's Lifestyle 4", "Men's Lifestyle 5", "Men's Lifestyle 6", 'Multi-product', 'On Hanger', 'Product details', 'Red, white & blue', 'Spring/summer vibes', "Valentine's Day", "Women's 2", "Women's 3", "Women's 4", "Women's 5", "Women's Lifestyle", "Women's Lifestyle 2", "Women's Lifestyle 3", "Women's Lifestyle 4", 'Wrinkled', 'Zoomed in'] | options ['Back', 'Back 2', 'Front', 'Front 2', 'Front and Back', 'Inside label', 'Left', 'Left Front', 'Left sleeve', 'Outside label', 'Product details', 'Right', 'Right Front', 'Right sleeve', 'Zoomed-in']
+create task 200 {'task_key': 'gt-1012323292', 'status': 'pending'}
+task completed 
+saved black-main 333618
+saved black-front 475448
+saved navy-main 527853
+saved navy-front 723265
+saved dark-grey-heather-main 561625
+saved dark-grey-heather-front 682511
+create task 200 {'task_key': 'gt-1012323696', 'status': 'pending'}
+task completed 
+saved athletic-heather-main 790411
+saved athletic-heather-front 992348
+saved white-main 387778
+saved white-front 426629
