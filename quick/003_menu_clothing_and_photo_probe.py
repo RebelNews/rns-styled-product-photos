@@ -2,7 +2,8 @@
 
 A. A "Clothing" collection (tees, women's tees, long sleeves, hoodies, sweatshirts, hats) so the Clothing menu heading
    stops linking to every product in the store, mugs and books included.
-B. Menu: Clothing points at that collection; the empty "Films" item becomes "Film Posters" and points at Posters.
+B. Menu: Clothing points at that collection; the empty "Films" item under Books & Film Merch becomes "Film Posters" and
+   points at the posters; the "Posters" item under Mugs & Gifts is removed; the Posters collection is renamed Film Posters.
 C. Read-only probe for the mug, hat and sticker photo job: asks Printful what mock-up styles exist for one of each and
    saves a sample of each style to results/mockups/. Changes nothing on the store."""
 import json, os, time, requests, shop
@@ -42,7 +43,10 @@ try:
     m = shop.gql('query{menu(id:"%s"){id title handle items{id title type url resourceId tags items{id title type url resourceId tags items{id title type url resourceId tags}}}}}' % MENU)['menu']
     changed = []
     def fix(it, top):
-        o = {'id': it['id'], 'title': it['title'], 'type': it['type'], 'url': it['url'], 'resourceId': it['resourceId'], 'tags': it.get('tags') or [], 'items': [fix(x, False) for x in it.get('items') or []]}
+        kids = it.get('items') or []
+        if top and it['title'] == 'Mugs & Gifts' and any(k['title'] == 'Posters' and (k['url'] or '').endswith('/collections/art') for k in kids):
+            kids = [k for k in kids if not (k['title'] == 'Posters' and (k['url'] or '').endswith('/collections/art'))]; changed.append('Posters removed from Mugs & Gifts (now Film Posters under Books & Film Merch)')
+        o = {'id': it['id'], 'title': it['title'], 'type': it['type'], 'url': it['url'], 'resourceId': it['resourceId'], 'tags': it.get('tags') or [], 'items': [fix(x, False) for x in kids]}
         if top and it['title'] == 'Clothing' and cid and it['resourceId'] != cid: o.update(resourceId=cid, url='/collections/clothing', type='COLLECTION'); changed.append('Clothing -> /collections/clothing')
         if not top and it['title'] == 'Films' and (it['url'] or '').endswith('/collections/films'): o.update(title='Film Posters', resourceId=POSTERS, url='/collections/art', type='COLLECTION'); changed.append('Films -> Film Posters (/collections/art)')
         if o['resourceId']: o.pop('url')
@@ -53,6 +57,10 @@ try:
         print('menu', 'updated: ' + '; '.join(changed) if not d['userErrors'] else 'NOT updated %s' % d['userErrors'][:3], flush=True)
     else: print('menu: nothing to change')
 except Exception as e: print('menu ERROR', type(e).__name__, str(e)[:300])
+try:
+    d = shop.gql('mutation($c:CollectionUpdateInput!){collectionUpdate(collection:$c){collection{id title} userErrors{field message}}}', {'c': {'id': POSTERS, 'title': 'Film Posters'}})['collectionUpdate']
+    print('Posters collection renamed Film Posters' if not d['userErrors'] else 'collection rename userErrors %s' % d['userErrors'][:2], flush=True)
+except Exception as e: print('collection rename ERROR', type(e).__name__, str(e)[:200])
 # ---- C. Mock-up probe (read-only)
 os.makedirs('results/mockups', exist_ok=True)
 for kind, pid in (('mug', '15499176083590'), ('hat', '6880348930182'), ('sticker', '15497901408390')):
