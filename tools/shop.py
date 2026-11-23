@@ -1,6 +1,7 @@
 """Helpers for jobs: Shopify Admin GraphQL (client credentials grant) and Printful. Never print credentials."""
 import os, time, requests
 STORE = os.environ['SHOPIFY_STORE']; VER = '2026-10'
+PF_STORE = '1626324'  # Rebel News store in Printful
 _tok = None
 def token():
     global _tok
@@ -20,7 +21,7 @@ def gql(q, v=None):
     raise RuntimeError('throttled')
 def pf(path, method='GET', **kw):
     for a in range(6):
-        r = requests.request(method, 'https://api.printful.com' + path, headers={'Authorization': 'Bearer ' + os.environ['PRINTFUL_TOKEN']}, timeout=90, **kw)
+        r = requests.request(method, 'https://api.printful.com' + path, headers={'Authorization': 'Bearer ' + os.environ['PRINTFUL_TOKEN'], 'X-PF-Store-Id': PF_STORE}, timeout=90, **kw)
         if r.status_code == 429: time.sleep(15 + a * 10); continue
         try: return r.status_code, r.json()
         except Exception: return r.status_code, {'text': r.text[:200]}
