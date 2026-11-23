@@ -1,0 +1,761 @@
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+products 74
+15489701347462 Black print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15489701347462 Navy print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15489701347462 Dark Grey Heather print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15489701347462 Athletic Heather print file 1118730900 front_large its-merry-christmas-light.png preview-only | all types ['front_large', 'preview']
+15489701347462 White print file 1118730900 front_large its-merry-christmas-light.png preview-only | all types ['front_large', 'preview']
+15489701347462 skip colour Black media not one-to-one
+15489701347462 skip colour Navy media not one-to-one
+15489701347462 skip colour Dark Grey Heather media not one-to-one
+15489701347462 Athletic Heather -> xmas_gifts
+15489701347462 White -> wood
+15489701347462 swapped 2
+15491025272966 Black print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491025272966 Navy print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491025272966 Dark Grey Heather print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491025272966 Athletic Heather print file 1118720188 front_large defend-christmas-light.png preview-only | all types ['front_large', 'preview']
+15491025272966 White print file 1118720188 front_large defend-christmas-light.png preview-only | all types ['front_large', 'preview']
+15491025272966 Black -> snowroad
+15491025272966 Navy -> redpaper
+15491025272966 Dark Grey Heather -> xmas_plaid
+15491025272966 Athletic Heather -> xmas_gifts
+15491025272966 White -> xmas_snow
+15491025272966 swapped 5
+15490828796038 Black print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15490828796038 Navy print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15490828796038 Dark Grey Heather print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15490828796038 Athletic Heather print file 1119061720 front_large carney-stole-christmas-light.png preview-only | all types ['front_large', 'preview']
+15490828796038 White print file 1119061720 front_large carney-stole-christmas-light.png preview-only | all types ['front_large', 'preview']
+15490828796038 skip colour Black media not one-to-one
+15490828796038 skip colour Navy media not one-to-one
+15490828796038 skip colour Dark Grey Heather media not one-to-one
+15490828796038 Athletic Heather -> newsdesk
+15490828796038 White -> navy
+15490828796038 swapped 2
+15491025404038 Black print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491025404038 Navy print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491025404038 Dark Grey Heather print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491025404038 Athletic Heather print file 1118854430 front_large honk-honk-ho-ho-ho-light.png preview-only | all types ['front_large', 'preview']
+15491025404038 White print file 1118854430 front_large honk-honk-ho-ho-ho-light.png preview-only | all types ['front_large', 'preview']
+15491025404038 Black -> snowroad
+15491025404038 Navy -> redpaper
+15491025404038 Dark Grey Heather -> xmas_plaid
+15491025404038 Athletic Heather -> xmas_gifts
+15491025404038 White -> xmas_snow
+15491025404038 swapped 5
+15491027435654 Black print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491027435654 Navy print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491027435654 Dark Grey Heather print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491027435654 Athletic Heather print file 1118845285 front_large let-freedom-ring-light.png preview-only | all types ['front_large', 'preview']
+15491027435654 White print file 1118845285 front_large let-freedom-ring-light.png preview-only | all types ['front_large', 'preview']
+15491027435654 Black -> snowroad
+15491027435654 Navy -> redpaper
+15491027435654 Dark Grey Heather -> xmas_plaid
+15491027435654 Athletic Heather -> xmas_gifts
+15491027435654 White -> xmas_snow
+15491027435654 swapped 5
+15489704231046 Black print file 1115858386 default xmas26_rebel_ugly_sweater_front_3x4.png preview-only | all types ['default', 'preview']
+15489704231046 Navy print file 1115858386 default xmas26_rebel_ugly_sweater_front_3x4.png preview-only | all types ['default', 'preview']
+15489704231046 Forest Green print file 1115858386 default xmas26_rebel_ugly_sweater_front_3x4.png preview-only | all types ['default', 'preview']
+15489704231046 Sport Grey print file 1118852346 default rebel-ugly-christmas-sweater-light.png preview-only | all types ['default', 'preview']
+15489704231046 White print file 1118852346 default rebel-ugly-christmas-sweater-light.png preview-only | all types ['default', 'preview']
+15489704231046 skip colour Black media not one-to-one
+15489704231046 skip colour Navy media not one-to-one
+15489704231046 skip colour Forest Green media not one-to-one
+15489704231046 Sport Grey -> newsdesk
+15489704231046 White -> navy
+15489704231046 swapped 2
+15491027566726 Black print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491027566726 Navy print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491027566726 Dark Grey Heather print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491027566726 Athletic Heather print file 1118865878 front_large santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['front_large', 'preview']
+15491027566726 White print file 1118865878 front_large santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['front_large', 'preview']
+15491027566726 Black -> newsprint
+15491027566726 Navy -> snowroad
+15491027566726 Dark Grey Heather -> newsprint
+15491027566726 Athletic Heather -> newsdesk
+15491027566726 White -> neon
+15491027566726 swapped 5
+15490828861574 Black print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15490828861574 Navy print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15490828861574 Dark Grey Heather print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15490828861574 Athletic Heather print file 1119063946 front_large fa-la-la-la-la-defund-the-cbc-light.png preview-only | all types ['front_large', 'preview']
+15490828861574 White print file 1119063946 front_large fa-la-la-la-la-defund-the-cbc-light.png preview-only | all types ['front_large', 'preview']
+15490828861574 skip colour Black media not one-to-one
+15490828861574 skip colour Navy media not one-to-one
+15490828861574 skip colour Dark Grey Heather media not one-to-one
+15490828861574 Athletic Heather -> newsdesk
+15490828861574 White -> xmas_gifts
+15490828861574 swapped 2
+15491034153094 Black print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491034153094 Navy print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491034153094 Dark Grey Heather print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491034153094 Athletic Heather print file 1118965285 front_large shake-up-the-ottawa-bubble-light.png preview-only | all types ['front_large', 'preview']
+15491034153094 White print file 1118965285 front_large shake-up-the-ottawa-bubble-light.png preview-only | all types ['front_large', 'preview']
+15491034153094 Black -> newsprint
+15491034153094 Navy -> snowroad
+15491034153094 Dark Grey Heather -> redpaper
+15491034153094 Athletic Heather -> newsdesk
+15491034153094 White -> navy
+15491034153094 swapped 5
+15489704132742 Black print file 1115858270 default xmas26_naughty_list_tee_3x4.png preview-only | all types ['default', 'preview']
+15489704132742 Navy print file 1115858270 default xmas26_naughty_list_tee_3x4.png preview-only | all types ['default', 'preview']
+15489704132742 Dark Grey Heather print file 1115858270 default xmas26_naughty_list_tee_3x4.png preview-only | all types ['default', 'preview']
+15489704132742 Athletic Heather print file 1119065966 front_large im-on-the-naughty-list-for-doing-journalism-light.png preview-only | all types ['front_large', 'preview']
+15489704132742 White print file 1119065966 front_large im-on-the-naughty-list-for-doing-journalism-light.png preview-only | all types ['front_large', 'preview']
+15489704132742 skip colour Black media not one-to-one
+15489704132742 skip colour Navy media not one-to-one
+15489704132742 skip colour Dark Grey Heather media not one-to-one
+15489704132742 Athletic Heather -> xmas_gifts
+15489704132742 White -> newsdesk
+15489704132742 swapped 2
+15491037036678 Black print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491037036678 Navy print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491037036678 Dark Grey Heather print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491037036678 Athletic Heather print file 1118965641 front_large true-north-strong-and-merry-light.png preview-only | all types ['front_large', 'preview']
+15491037036678 White print file 1118965641 front_large true-north-strong-and-merry-light.png preview-only | all types ['front_large', 'preview']
+15491037036678 Black -> snowroad
+15491037036678 Navy -> redpaper
+15491037036678 Dark Grey Heather -> xmas_plaid
+15491037036678 Athletic Heather -> xmas_gifts
+15491037036678 White -> xmas_snow
+15491037036678 swapped 5
+15489703968902 Black print file 1115857697 default xmas26_fringe_minority_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703968902 Navy print file 1115857697 default xmas26_fringe_minority_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703968902 Dark Grey Heather print file 1115857697 default xmas26_fringe_minority_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703968902 Athletic Heather print file 1119068100 front_large merry-christmas-to-the-small-fringe-minority-light.png preview-only | all types ['front_large', 'preview']
+15489703968902 White print file 1119068100 front_large merry-christmas-to-the-small-fringe-minority-light.png preview-only | all types ['front_large', 'preview']
+15489703968902 skip colour Black media not one-to-one
+15489703968902 skip colour Navy media not one-to-one
+15489703968902 skip colour Dark Grey Heather media not one-to-one
+15489703968902 Athletic Heather -> newsdesk
+15489703968902 White -> navy
+15489703968902 swapped 2
+15491037298822 Black print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491037298822 Navy print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491037298822 Dark Grey Heather print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491037298822 Athletic Heather print file 1118860856 front_large ho-ho-hold-the-line-light.png preview-only | all types ['front_large', 'preview']
+15491037298822 White print file 1118860856 front_large ho-ho-hold-the-line-light.png preview-only | all types ['front_large', 'preview']
+15491037298822 Black -> snowroad
+15491037298822 Navy -> redpaper
+15491037298822 Dark Grey Heather -> xmas_plaid
+15491037298822 Athletic Heather -> xmas_gifts
+15491037298822 White -> xmas_snow
+15491037298822 swapped 5
+15490828828806 Black print file 1116560244 default xmas26_all_is_calm_all_is_taxed_tee_3x4.png url | all types ['default', 'preview']
+15490828828806 Navy print file 1116560244 default xmas26_all_is_calm_all_is_taxed_tee_3x4.png url | all types ['default', 'preview']
+15490828828806 Dark Grey Heather print file 1116560244 default xmas26_all_is_calm_all_is_taxed_tee_3x4.png url | all types ['default', 'preview']
+15490828828806 Athletic Heather print file 1119059370 front_large all-is-calm-all-is-taxed-light.png preview-only | all types ['front_large', 'preview']
+15490828828806 White print file 1119059370 front_large all-is-calm-all-is-taxed-light.png preview-only | all types ['front_large', 'preview']
+15490828828806 skip colour Black media not one-to-one
+15490828828806 skip colour Navy media not one-to-one
+15490828828806 skip colour Dark Grey Heather media not one-to-one
+15490828828806 Athletic Heather -> newsdesk
+15490828828806 White -> xmas_gifts
+15490828828806 swapped 2
+15491039756422 Black print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491039756422 Navy print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491039756422 Dark Grey Heather print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491039756422 Athletic Heather print file 1118965875 front_large you-cant-crack-free-speech-light.png preview-only | all types ['front_large', 'preview']
+15491039756422 White print file 1118965875 front_large you-cant-crack-free-speech-light.png preview-only | all types ['front_large', 'preview']
+15491039756422 Black -> newsprint
+15491039756422 Navy -> snowroad
+15491039756422 Dark Grey Heather -> newsprint
+15491039756422 Athletic Heather -> newsdesk
+15491039756422 White -> navy
+15491039756422 swapped 5
+15489704067206 Black print file 1115857822 default xmas26_jingle_carney_tee_3x4.png preview-only | all types ['default', 'preview']
+15489704067206 Navy print file 1115857822 default xmas26_jingle_carney_tee_3x4.png preview-only | all types ['default', 'preview']
+15489704067206 Dark Grey Heather print file 1115857822 default xmas26_jingle_carney_tee_3x4.png preview-only | all types ['default', 'preview']
+15489704067206 Athletic Heather print file 1119067129 front_large jingle-bells-carney-sells-light.png preview-only | all types ['front_large', 'preview']
+15489704067206 White print file 1119067129 front_large jingle-bells-carney-sells-light.png preview-only | all types ['front_large', 'preview']
+15489704067206 skip colour Black media not one-to-one
+15489704067206 skip colour Navy media not one-to-one
+15489704067206 skip colour Dark Grey Heather media not one-to-one
+15489704067206 Athletic Heather -> xmas_gifts
+15489704067206 White -> newsdesk
+15489704067206 swapped 2
+15491039887494 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491039887494 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491039887494 Dark Grey Heather print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491039887494 Athletic Heather print file 1118966138 front_large silent-night-not-on-our-watch-light.png preview-only | all types ['front_large', 'preview']
+15491039887494 White print file 1118966138 front_large silent-night-not-on-our-watch-light.png preview-only | all types ['front_large', 'preview']
+15491039887494 Black -> snowroad
+15491039887494 Navy -> redpaper
+15491039887494 Dark Grey Heather -> xmas_plaid
+15491039887494 Athletic Heather -> xmas_gifts
+15491039887494 White -> xmas_snow
+15491039887494 swapped 5
+15491578757254 Black print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491578757254 Navy print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491578757254 Forest Green print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491578757254 Sport Grey print file 1118720188 default defend-christmas-light.png preview-only | all types ['default', 'preview']
+15491578757254 White print file 1118720188 default defend-christmas-light.png preview-only | all types ['default', 'preview']
+15491578757254 Black -> snowroad
+15491578757254 Navy -> redpaper
+15491578757254 Forest Green -> xmas_plaid
+15491578757254 Sport Grey -> xmas_gifts
+15491578757254 White -> xmas_snow
+15491578757254 swapped 5
+15491579019398 Black print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491579019398 Navy print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491579019398 Forest Green print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491579019398 Sport Grey print file 1118854430 default honk-honk-ho-ho-ho-light.png preview-only | all types ['default', 'preview']
+15491579019398 White print file 1118854430 default honk-honk-ho-ho-ho-light.png preview-only | all types ['default', 'preview']
+15491579019398 Black -> snowroad
+15491579019398 Navy -> redpaper
+15491579019398 Forest Green -> xmas_plaid
+15491579019398 Sport Grey -> xmas_gifts
+15491579019398 White -> xmas_snow
+15491579019398 swapped 5
+15491579248774 Black print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491579248774 Navy print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491579248774 Forest Green print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491579248774 Sport Grey print file 1118845285 default let-freedom-ring-light.png preview-only | all types ['default', 'preview']
+15491579248774 White print file 1118845285 default let-freedom-ring-light.png preview-only | all types ['default', 'preview']
+15491579248774 Black -> snowroad
+15491579248774 Navy -> redpaper
+15491579248774 Forest Green -> xmas_plaid
+15491579248774 Sport Grey -> xmas_gifts
+15491579248774 White -> xmas_snow
+15491579248774 swapped 5
+15491579576454 Black print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491579576454 Navy print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491579576454 Forest Green print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491579576454 Sport Grey print file 1118865878 default santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['default', 'preview']
+15491579576454 White print file 1118865878 default santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['default', 'preview']
+15491579576454 Black -> newsprint
+15491579576454 Navy -> snowroad
+15491579576454 Forest Green -> newsprint
+15491579576454 Sport Grey -> newsdesk
+15491579576454 White -> navy
+15491579576454 swapped 5
+15491579838598 Black print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491579838598 Navy print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491579838598 Forest Green print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491579838598 Sport Grey print file 1118965285 default shake-up-the-ottawa-bubble-light.png preview-only | all types ['default', 'preview']
+15491579838598 White print file 1118965285 default shake-up-the-ottawa-bubble-light.png preview-only | all types ['default', 'preview']
+15491579838598 Black -> newsprint
+15491579838598 Navy -> snowroad
+15491579838598 Forest Green -> newsprint
+15491579838598 Sport Grey -> newsdesk
+15491579838598 White -> navy
+15491579838598 swapped 5
+15491580100742 Black print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491580100742 Navy print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491580100742 Forest Green print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491580100742 Sport Grey print file 1118965641 default true-north-strong-and-merry-light.png preview-only | all types ['default', 'preview']
+15491580100742 White print file 1118965641 default true-north-strong-and-merry-light.png preview-only | all types ['default', 'preview']
+15491580100742 Black -> snowroad
+15491580100742 Navy -> redpaper
+15491580100742 Forest Green -> xmas_plaid
+15491580100742 Sport Grey -> xmas_gifts
+15491580100742 White -> xmas_snow
+15491580100742 swapped 5
+15491580395654 Black print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491580395654 Navy print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491580395654 Forest Green print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491580395654 Sport Grey print file 1118860856 default ho-ho-hold-the-line-light.png preview-only | all types ['default', 'preview']
+15491580395654 White print file 1118860856 default ho-ho-hold-the-line-light.png preview-only | all types ['default', 'preview']
+15491580395654 Black -> snowroad
+15491580395654 Navy -> redpaper
+15491580395654 Forest Green -> xmas_plaid
+15491580395654 Sport Grey -> xmas_gifts
+15491580395654 White -> xmas_snow
+15491580395654 swapped 5
+15491580657798 Black print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491580657798 Navy print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491580657798 Forest Green print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491580657798 Sport Grey print file 1118965875 default you-cant-crack-free-speech-light.png preview-only | all types ['default', 'preview']
+15491580657798 White print file 1118965875 default you-cant-crack-free-speech-light.png preview-only | all types ['default', 'preview']
+15491580657798 Black -> newsprint
+15491580657798 Navy -> snowroad
+15491580657798 Forest Green -> newsprint
+15491580657798 Sport Grey -> newsdesk
+15491580657798 White -> navy
+15491580657798 swapped 5
+15491580887174 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491580887174 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491580887174 Forest Green print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491580887174 Sport Grey print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491580887174 White print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491580887174 Black -> snowroad
+15491580887174 Navy -> redpaper
+15491580887174 Forest Green -> xmas_plaid
+15491580887174 Sport Grey -> xmas_gifts
+15491580887174 White -> xmas_snow
+15491580887174 swapped 5
+15489703772294 Black print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703772294 Navy print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703772294 Forest Green print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703772294 Sport Grey print file 1118730900 default its-merry-christmas-light.png preview-only | all types ['default', 'preview']
+15489703772294 White print file 1118730900 default its-merry-christmas-light.png preview-only | all types ['default', 'preview']
+15489703772294 skip colour Black media not one-to-one
+15489703772294 skip colour Navy media not one-to-one
+15489703772294 skip colour Forest Green media not one-to-one
+15489703772294 Sport Grey -> xmas_gifts
+15489703772294 White -> wood
+15489703772294 swapped 2
+15490828959878 Black print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15490828959878 Navy print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15490828959878 Forest Green print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15490828959878 Sport Grey print file 1119061720 default carney-stole-christmas-light.png preview-only | all types ['default', 'preview']
+15490828959878 White print file 1119061720 default carney-stole-christmas-light.png preview-only | all types ['default', 'preview']
+15490828959878 skip colour Black media not one-to-one
+15490828959878 skip colour Navy media not one-to-one
+15490828959878 skip colour Forest Green media not one-to-one
+15490828959878 Sport Grey -> newsdesk
+15490828959878 White -> navy
+15490828959878 swapped 2
+15489703936134 Black print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703936134 Navy print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703936134 Dark Grey Heather print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703936134 Athletic Heather print file 1118989563 front_large all-i-want-for-christmas-is-still-a-new-prime-minister-light.png preview-only | all types ['front_large', 'preview']
+15489703936134 White print file 1118989563 front_large all-i-want-for-christmas-is-still-a-new-prime-minister-light.png preview-only | all types ['front_large', 'preview']
+15489703936134 skip colour Black media not one-to-one
+15489703936134 skip colour Navy media not one-to-one
+15489703936134 skip colour Dark Grey Heather media not one-to-one
+15489703936134 Athletic Heather -> newsdesk
+15489703936134 White -> xmas_gifts
+15489703936134 swapped 2
+15490828992646 Black print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15490828992646 Navy print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15490828992646 Forest Green print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15490828992646 Sport Grey print file 1119063946 default fa-la-la-la-la-defund-the-cbc-light.png preview-only | all types ['default', 'preview']
+15490828992646 White print file 1119063946 default fa-la-la-la-la-defund-the-cbc-light.png preview-only | all types ['default', 'preview']
+15490828992646 skip colour Black media not one-to-one
+15490828992646 skip colour Navy media not one-to-one
+15490828992646 skip colour Forest Green media not one-to-one
+15490828992646 Sport Grey -> newsdesk
+15490828992646 White -> neon
+15490828992646 swapped 2
+15489703870598 Black print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703870598 Navy print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703870598 Forest Green print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15489703870598 Sport Grey print file 1118989563 default all-i-want-for-christmas-is-still-a-new-prime-minister-light.png preview-only | all types ['default', 'preview']
+15489703870598 White print file 1118989563 default all-i-want-for-christmas-is-still-a-new-prime-minister-light.png preview-only | all types ['default', 'preview']
+15489703870598 skip colour Black media not one-to-one
+15489703870598 skip colour Navy media not one-to-one
+15489703870598 skip colour Forest Green media not one-to-one
+15489703870598 Sport Grey -> newsdesk
+15489703870598 White -> xmas_gifts
+15489703870598 swapped 2
+15489704001670 Black print file 1115857625 default xmas26_fringe_minority_hoodie_sq.png preview-only | all types ['default', 'preview']
+15489704001670 Navy print file 1115857625 default xmas26_fringe_minority_hoodie_sq.png preview-only | all types ['default', 'preview']
+15489704001670 Sport Grey print file 1119068306 default merry-christmas-to-the-small-fringe-minority-hoodie-light.png preview-only | all types ['default', 'preview']
+15489704001670 White print file 1119068306 default merry-christmas-to-the-small-fringe-minority-hoodie-light.png preview-only | all types ['default', 'preview']
+15489704001670 skip colour Black media not one-to-one
+15489704001670 skip colour Navy media not one-to-one
+15489704001670 Sport Grey -> newsdesk
+15489704001670 White -> navy
+15489704001670 swapped 2
+15491578888326 Black print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491578888326 Navy print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491578888326 Forest Green print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491578888326 Athletic Heather print file 1118720188 default defend-christmas-light.png preview-only | all types ['default', 'preview']
+15491578888326 White print file 1118720188 default defend-christmas-light.png preview-only | all types ['default', 'preview']
+15491578888326 Navy -> snowroad
+15491578888326 Black -> redpaper
+15491578888326 skip colour Forest Green mock-up came back blank
+15491578888326 Athletic Heather -> xmas_gifts
+15491578888326 White -> xmas_snow
+15491578888326 swapped 4
+15491579117702 Black print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491579117702 Navy print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491579117702 Forest Green print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491579117702 Athletic Heather print file 1118854430 default honk-honk-ho-ho-ho-light.png preview-only | all types ['default', 'preview']
+15491579117702 White print file 1118854430 default honk-honk-ho-ho-ho-light.png preview-only | all types ['default', 'preview']
+15491579117702 Navy -> snowroad
+15491579117702 Black -> redpaper
+15491579117702 skip colour Forest Green mock-up came back blank
+15491579117702 Athletic Heather -> xmas_gifts
+15491579117702 White -> xmas_snow
+15491579117702 swapped 4
+15491579379846 Black print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491579379846 Navy print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491579379846 Forest Green print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491579379846 Athletic Heather print file 1118845285 default let-freedom-ring-light.png preview-only | all types ['default', 'preview']
+15491579379846 White print file 1118845285 default let-freedom-ring-light.png preview-only | all types ['default', 'preview']
+15491579379846 Navy -> snowroad
+15491579379846 Black -> redpaper
+15491579379846 skip colour Forest Green mock-up came back blank
+15491579379846 Athletic Heather -> xmas_gifts
+15491579379846 White -> xmas_snow
+15491579379846 swapped 4
+15491579674758 Black print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491579674758 Navy print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491579674758 Forest Green print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491579674758 Athletic Heather print file 1118865878 default santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['default', 'preview']
+15491579674758 White print file 1118865878 default santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['default', 'preview']
+15491579674758 Navy -> newsprint
+15491579674758 Black -> snowroad
+15491579674758 skip colour Forest Green mock-up came back blank
+15491579674758 Athletic Heather -> newsdesk
+15491579674758 White -> navy
+15491579674758 swapped 4
+15491579936902 Black print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491579936902 Navy print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491579936902 Forest Green print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491579936902 Athletic Heather print file 1118965285 default shake-up-the-ottawa-bubble-light.png preview-only | all types ['default', 'preview']
+15491579936902 White print file 1118965285 default shake-up-the-ottawa-bubble-light.png preview-only | all types ['default', 'preview']
+15491579936902 Navy -> newsprint
+15491579936902 Black -> snowroad
+15491579936902 skip colour Forest Green mock-up came back blank
+15491579936902 Athletic Heather -> newsdesk
+15491579936902 White -> xmas_gifts
+15491579936902 swapped 4
+15491580231814 Black print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491580231814 Navy print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491580231814 Forest Green print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491580231814 Athletic Heather print file 1118965641 default true-north-strong-and-merry-light.png preview-only | all types ['default', 'preview']
+15491580231814 White print file 1118965641 default true-north-strong-and-merry-light.png preview-only | all types ['default', 'preview']
+15491580231814 Navy -> snowroad
+15491580231814 Black -> redpaper
+15491580231814 skip colour Forest Green mock-up came back blank
+15491580231814 Athletic Heather -> xmas_gifts
+15491580231814 White -> xmas_snow
+15491580231814 swapped 4
+15491580493958 Black print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491580493958 Navy print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491580493958 Forest Green print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491580493958 Athletic Heather print file 1118860856 default ho-ho-hold-the-line-light.png preview-only | all types ['default', 'preview']
+15491580493958 White print file 1118860856 default ho-ho-hold-the-line-light.png preview-only | all types ['default', 'preview']
+15491580493958 Navy -> snowroad
+15491580493958 Black -> redpaper
+15491580493958 skip colour Forest Green mock-up came back blank
+15491580493958 Athletic Heather -> xmas_gifts
+15491580493958 White -> xmas_snow
+15491580493958 swapped 4
+15491580756102 Black print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491580756102 Navy print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491580756102 Forest Green print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491580756102 Athletic Heather print file 1118965875 default you-cant-crack-free-speech-light.png preview-only | all types ['default', 'preview']
+15491580756102 White print file 1118965875 default you-cant-crack-free-speech-light.png preview-only | all types ['default', 'preview']
+15491580756102 Navy -> newsprint
+15491580756102 Black -> snowroad
+15491580756102 skip colour Forest Green mock-up came back blank
+15491580756102 Athletic Heather -> newsdesk
+15491580756102 White -> navy
+15491580756102 swapped 4
+15491581051014 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491581051014 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491581051014 Forest Green print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491581051014 Athletic Heather print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491581051014 White print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491581051014 Navy -> snowroad
+15491581051014 Black -> redpaper
+15491581051014 skip colour Forest Green mock-up came back blank
+15491581051014 Athletic Heather -> xmas_gifts
+15491581051014 White -> xmas_snow
+15491581051014 swapped 4
+15491025338502 Black print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491025338502 Navy print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491025338502 Forest Green print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15491025338502 Sport Grey print file 1118720188 default defend-christmas-light.png preview-only | all types ['default', 'preview']
+15491025338502 White print file 1118720188 default defend-christmas-light.png preview-only | all types ['default', 'preview']
+15491025338502 Black -> snowroad
+15491025338502 Navy -> redpaper
+15491025338502 Forest Green -> xmas_plaid
+15491025338502 Sport Grey -> xmas_gifts
+15491025338502 White -> xmas_snow
+15491025338502 swapped 5
+15491025436806 Black print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491025436806 Navy print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491025436806 Forest Green print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15491025436806 Sport Grey print file 1118854430 default honk-honk-ho-ho-ho-light.png preview-only | all types ['default', 'preview']
+15491025436806 White print file 1118854430 default honk-honk-ho-ho-ho-light.png preview-only | all types ['default', 'preview']
+15491025436806 Black -> snowroad
+15491025436806 Navy -> redpaper
+15491025436806 Forest Green -> xmas_plaid
+15491025436806 Sport Grey -> xmas_gifts
+15491025436806 White -> xmas_snow
+15491025436806 swapped 5
+15491027501190 Black print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491027501190 Navy print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491027501190 Forest Green print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15491027501190 Sport Grey print file 1118845285 default let-freedom-ring-light.png preview-only | all types ['default', 'preview']
+15491027501190 White print file 1118845285 default let-freedom-ring-light.png preview-only | all types ['default', 'preview']
+15491027501190 Black -> snowroad
+15491027501190 Navy -> redpaper
+15491027501190 Forest Green -> xmas_plaid
+15491027501190 Sport Grey -> xmas_gifts
+15491027501190 White -> xmas_snow
+15491027501190 swapped 5
+15491034087558 Black print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491034087558 Navy print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491034087558 Forest Green print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15491034087558 Sport Grey print file 1118865878 default santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['default', 'preview']
+15491034087558 White print file 1118865878 default santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['default', 'preview']
+15491034087558 Black -> newsprint
+15491034087558 Navy -> snowroad
+15491034087558 Forest Green -> newsprint
+15491034087558 Sport Grey -> newsdesk
+15491034087558 White -> navy
+15491034087558 swapped 5
+15491034218630 Black print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491034218630 Navy print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491034218630 Forest Green print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15491034218630 Sport Grey print file 1118965285 default shake-up-the-ottawa-bubble-light.png preview-only | all types ['default', 'preview']
+15491034218630 White print file 1118965285 default shake-up-the-ottawa-bubble-light.png preview-only | all types ['default', 'preview']
+15491034218630 Black -> newsprint
+15491034218630 Navy -> snowroad
+15491034218630 Forest Green -> redpaper
+15491034218630 Sport Grey -> newsdesk
+15491034218630 White -> navy
+15491034218630 swapped 5
+15491037102214 Black print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491037102214 Navy print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491037102214 Forest Green print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15491037102214 Sport Grey print file 1118965641 default true-north-strong-and-merry-light.png preview-only | all types ['default', 'preview']
+15491037102214 White print file 1118965641 default true-north-strong-and-merry-light.png preview-only | all types ['default', 'preview']
+15491037102214 Black -> snowroad
+15491037102214 Navy -> redpaper
+15491037102214 Forest Green -> xmas_plaid
+15491037102214 Sport Grey -> xmas_gifts
+15491037102214 White -> xmas_snow
+15491037102214 swapped 5
+15491037331590 Black print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491037331590 Navy print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491037331590 Forest Green print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15491037331590 Sport Grey print file 1118860856 default ho-ho-hold-the-line-light.png preview-only | all types ['default', 'preview']
+15491037331590 White print file 1118860856 default ho-ho-hold-the-line-light.png preview-only | all types ['default', 'preview']
+15491037331590 Black -> snowroad
+15491037331590 Navy -> redpaper
+15491037331590 Forest Green -> xmas_plaid
+15491037331590 Sport Grey -> xmas_gifts
+15491037331590 White -> xmas_snow
+15491037331590 swapped 5
+15491039789190 Black print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491039789190 Navy print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491039789190 Forest Green print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15491039789190 Sport Grey print file 1118965875 default you-cant-crack-free-speech-light.png preview-only | all types ['default', 'preview']
+15491039789190 White print file 1118965875 default you-cant-crack-free-speech-light.png preview-only | all types ['default', 'preview']
+15491039789190 Black -> newsprint
+15491039789190 Navy -> snowroad
+15491039789190 Forest Green -> newsprint
+15491039789190 Sport Grey -> newsdesk
+15491039789190 White -> navy
+15491039789190 swapped 5
+15491041034374 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491041034374 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491041034374 Forest Green print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15491041034374 Sport Grey print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491041034374 White print file 1118966138 default silent-night-not-on-our-watch-light.png preview-only | all types ['default', 'preview']
+15491041034374 Black -> snowroad
+15491041034374 Navy -> redpaper
+15491041034374 Forest Green -> xmas_plaid
+15491041034374 Sport Grey -> xmas_gifts
+15491041034374 White -> xmas_snow
+15491041034374 swapped 5
+6947371745414 Black print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947371745414 Navy print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947371745414 Dark Grey Heather print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947371745414 Black -> linen
+6947371745414 Navy -> linen
+6947371745414 Dark Grey Heather -> snowroad
+6947371745414 swapped 3
+6947729408134 Black print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947729408134 Navy print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947729408134 Dark Heather print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947729408134 Black -> linen
+6947729408134 Navy -> linen
+6947729408134 Dark Heather -> snowroad
+6947729408134 swapped 3
+6947372859526 Black print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947372859526 Navy print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947372859526 Dark Heather print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947372859526 Black -> linen
+6947372859526 Navy -> linen
+6947372859526 Dark Heather -> pew
+6947372859526 swapped 3
+6936815173766 Black print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815173766 Navy print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815173766 Dark Grey Heather print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815173766 Black -> snowroad
+6936815173766 Navy -> redpaper
+6936815173766 Dark Grey Heather -> xmas_plaid
+6936815173766 swapped 3
+6936815763590 Black print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815763590 Navy print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815763590 Dark Heather print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815763590 Black -> snowroad
+6936815763590 Navy -> redpaper
+6936815763590 Dark Heather -> xmas_plaid
+6936815763590 swapped 3
+6936815403142 Black print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815403142 Navy print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815403142 Dark Heather print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936815403142 Black -> snowroad
+6936815403142 Navy -> redpaper
+6936815403142 Dark Heather -> xmas_gifts
+6936815403142 swapped 3
+6936819433606 Black Heather print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936819433606 Black print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936819433606 Navy print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936819433606 Dark Grey Heather print file 632204831 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-01.png preview-only | all types ['default', 'preview']
+6936819433606 Athletic Heather print file 632204833 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-02.png preview-only | all types ['default', 'preview']
+6936819433606 White print file 632204833 default Due_To_Inflation_Iam_Your_Christmas_Gift_Design-02.png preview-only | all types ['default', 'preview']
+6936819433606 Black Heather -> snowroad
+6936819433606 Black -> redpaper
+6936819433606 Navy -> xmas_plaid
+6936819433606 Dark Grey Heather -> snowroad
+6936819433606 Athletic Heather -> xmas_gifts
+6936819433606 White -> xmas_snow
+6936819433606 swapped 6
+6947730915462 Black Heather print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Black print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Navy print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Maroon print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Red print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Dark Grey Heather print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Military Green print file 635121807 default True_Story_Nativity_Design-02.png preview-only | all types ['default', 'preview']
+6947730915462 Athletic Heather print file 635121805 default True_Story_Nativity_Design-01.png preview-only | all types ['default', 'preview']
+6947730915462 White print file 635121805 default True_Story_Nativity_Design-01.png preview-only | all types ['default', 'preview']
+6947730915462 Black Heather -> linen
+6947730915462 Black -> linen
+6947730915462 Navy -> snowroad
+6947730915462 Maroon -> pew
+6947730915462 Red -> xmas_gifts
+6947730915462 Dark Grey Heather -> redpaper
+6947730915462 Military Green -> linen
+6947730915462 Athletic Heather -> wood
+6947730915462 White -> xmas_snow
+6947730915462 swapped 9
+6951580303494 Black print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580303494 Navy print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580303494 Dark Heather print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580303494 Light Blue print file 637582952 default WHITE_Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580303494 White print file 637582952 default WHITE_Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580303494 Black -> snowroad
+6951580303494 Navy -> redpaper
+6951580303494 Dark Heather -> xmas_plaid
+6951580303494 Light Blue -> xmas_gifts
+6951580303494 White -> xmas_snow
+6951580303494 swapped 5
+6951580991622 Black print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580991622 Navy print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580991622 Dark Grey Heather print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951580991622 Black -> snowroad
+6951580991622 Navy -> redpaper
+6951580991622 Dark Grey Heather -> xmas_plaid
+6951580991622 swapped 3
+6951585611910 Black print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951585611910 Navy print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951585611910 Dark Heather print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951585611910 Black -> snowroad
+6951585611910 Navy -> redpaper
+6951585611910 Dark Heather -> xmas_plaid
+6951585611910 swapped 3
+6951587217542 Black Heather print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951587217542 Black print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951587217542 Navy print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951587217542 Dark Grey Heather print file 637577290 default Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951587217542 Athletic Heather print file 637582952 default WHITE_Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951587217542 White print file 637582952 default WHITE_Oy_To_The_World_Design.png preview-only | all types ['default', 'preview']
+6951587217542 Black Heather -> snowroad
+6951587217542 Black -> redpaper
+6951587217542 Navy -> xmas_plaid
+6951587217542 Dark Grey Heather -> snowroad
+6951587217542 Athletic Heather -> xmas_gifts
+6951587217542 White -> xmas_snow
+6951587217542 swapped 6
+6918614909062 Black print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6918614909062 Navy print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6918614909062 Dark Grey Heather print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6918614909062 Black -> snowroad
+6918614909062 Navy -> redpaper
+6918614909062 Dark Grey Heather -> xmas_plaid
+6918614909062 swapped 3
+6921181659270 Sport Grey print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6921181659270 Light Blue print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6921181659270 White print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6921181659270 Sport Grey -> xmas_gifts
+6921181659270 Light Blue -> xmas_snow
+6921181659270 White -> redpaper
+6921181659270 swapped 3
+6921190146182 Black print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6921190146182 Navy print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6921190146182 Dark Heather print file 624988678 default All_I_want_For_Christmas_New_PM.png preview-only | all types ['default', 'preview']
+6921190146182 Black -> snowroad
+6921190146182 Navy -> redpaper
+6921190146182 Dark Heather -> xmas_plaid
+6921190146182 swapped 3
+6866757681286 Black print file 554530522 default Store_I-Identify-As_BLACK.png preview-only | all types ['default', 'preview']
+6866757681286 Navy print file 554530522 default Store_I-Identify-As_BLACK.png preview-only | all types ['default', 'preview']
+6866757681286 Dark Grey Heather print file 554530522 default Store_I-Identify-As_BLACK.png preview-only | all types ['default', 'preview']
+6866757681286 Black -> newsprint
+6866757681286 Navy -> newsprint
+6866757681286 Dark Grey Heather -> redpaper
+6866757681286 swapped 3
+6872621940870 Black print file 562497912 default GodKeepOurLand_Design-RED.png preview-only | all types ['default', 'preview']
+6872621940870 Navy print file 562497912 default GodKeepOurLand_Design-RED.png preview-only | all types ['default', 'preview']
+6872621940870 Dark Grey Heather print file 562497912 default GodKeepOurLand_Design-RED.png preview-only | all types ['default', 'preview']
+6872621940870 Red print file 562497892 default GodKeepOurLand_Design-WHITE.png preview-only | all types ['default', 'preview']
+6872621940870 Black -> maple
+6872621940870 Navy -> linen
+6872621940870 Dark Grey Heather -> maple
+6872621940870 Red -> ice
+6872621940870 swapped 4
+6875620409478 Black Heather print file 567382608 default Proud_Member_Small_Fringe_Minority-06.png preview-only | all types ['default', 'preview']
+6875620409478 Black print file 567382608 default Proud_Member_Small_Fringe_Minority-06.png preview-only | all types ['default', 'preview']
+6875620409478 Dark Grey Heather print file 567382608 default Proud_Member_Small_Fringe_Minority-06.png preview-only | all types ['default', 'preview']
+6875620409478 Asphalt print file 567382608 default Proud_Member_Small_Fringe_Minority-06.png preview-only | all types ['default', 'preview']
+6875620409478 Heather Deep Teal print file 567382608 default Proud_Member_Small_Fringe_Minority-06.png preview-only | all types ['default', 'preview']
+6875620409478 Black Heather -> maple
+6875620409478 Black -> maple
+6875620409478 Dark Grey Heather -> ice
+6875620409478 Asphalt -> snowroad
+6875620409478 Heather Deep Teal -> forest
+6875620409478 swapped 5
+6873574375558 Black print file 563989675 default Freedom_Isnt_Free_T-Shirt_Design-DarkApparel.png preview-only | all types ['default', 'preview']
+6873574375558 Navy print file 563989675 default Freedom_Isnt_Free_T-Shirt_Design-DarkApparel.png preview-only | all types ['default', 'preview']
+6873574375558 Dark Grey Heather print file 563989675 default Freedom_Isnt_Free_T-Shirt_Design-DarkApparel.png preview-only | all types ['default', 'preview']
+6873574375558 Black Heather print file 563989675 default Freedom_Isnt_Free_T-Shirt_Design-DarkApparel.png preview-only | all types ['default', 'preview']
+6873574375558 Olive print file 563989675 default Freedom_Isnt_Free_T-Shirt_Design-DarkApparel.png preview-only | all types ['default', 'preview']
+6873574375558 Black Heather -> maple
+6873574375558 Black -> maple
+6873574375558 Navy -> ice
+6873574375558 Dark Grey Heather -> snowroad
+6873574375558 Olive -> ice
+6873574375558 swapped 5
+6897726128262 Black Heather print file 607731713 default ORANGE_WHITE_Ban_Idiots_Not_Guns-01.png preview-only | all types ['default', 'preview']
+6897726128262 Black print file 607731713 default ORANGE_WHITE_Ban_Idiots_Not_Guns-01.png preview-only | all types ['default', 'preview']
+6897726128262 Dark Grey Heather print file 607731713 default ORANGE_WHITE_Ban_Idiots_Not_Guns-01.png preview-only | all types ['default', 'preview']
+6897726128262 Heather Forest print file 607731713 default ORANGE_WHITE_Ban_Idiots_Not_Guns-01.png preview-only | all types ['default', 'preview']
+6897726128262 Forest print file 607731713 default ORANGE_WHITE_Ban_Idiots_Not_Guns-01.png preview-only | all types ['default', 'preview']
+6897726128262 Black Heather -> bench
+6897726128262 Black -> camp
+6897726128262 Forest -> bench
+6897726128262 Dark Grey Heather -> bench
+6897726128262 Heather Forest -> bench
+6897726128262 swapped 5
+6872178131078 Black print file 561456681 default Varsity-Canada-True-North_Strong_Free-01.png preview-only | all types ['default', 'preview']
+6872178131078 Navy print file 561456681 default Varsity-Canada-True-North_Strong_Free-01.png preview-only | all types ['default', 'preview']
+6872178131078 Dark Grey Heather print file 561456681 default Varsity-Canada-True-North_Strong_Free-01.png preview-only | all types ['default', 'preview']
+6872178131078 Black -> maple
+6872178131078 Navy -> maple
+6872178131078 Dark Grey Heather -> ice
+6872178131078 swapped 3
+6831724101766 Black print file 507703372 default UAQI_Shirt-Design-White.png preview-only | all types ['default', 'preview']
+6831724101766 Navy print file 507703372 default UAQI_Shirt-Design-White.png preview-only | all types ['default', 'preview']
+6831724101766 Dark Grey Heather print file 507703372 default UAQI_Shirt-Design-White.png preview-only | all types ['default', 'preview']
+6831724101766 Black -> prairie
+6831724101766 Navy -> bench
+6831724101766 Dark Grey Heather -> truckbed
+6831724101766 swapped 3
+6878726750342 Olive print file 571034192 default Support_Farmers_Design-02.png preview-only | all types ['default', 'preview']
+6878726750342 Soft Cream print file 571034151 default Support_Farmers_Design-01.png preview-only | all types ['default', 'preview']
+6878726750342 Olive -> bluebarn
+6878726750342 Soft Cream -> wood
+6878726750342 swapped 2
+6880326320262 Black print file 576026919 default Sacred-Heart-RED.png preview-only | all types ['default', 'back', 'sleeve_right', 'preview']
+6880326320262 Red print file 573675915 default Sacred-Heart.png preview-only | all types ['default', 'back', 'sleeve_right', 'preview']
+6880326320262 Dark Heather print file 573675915 default Sacred-Heart.png preview-only | all types ['default', 'back', 'sleeve_right', 'preview']
+6880326320262 Maroon print file 573675915 default Sacred-Heart.png preview-only | all types ['default', 'back', 'sleeve_right', 'preview']
+6880326320262 Black -> linen
+6880326320262 Maroon -> linen
+6880326320262 Red -> wood
+6880326320262 Dark Heather -> pew
+6880326320262 swapped 4
+TOTAL swapped 292 errors 0
