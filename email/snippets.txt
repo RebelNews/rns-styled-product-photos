@@ -1,0 +1,32 @@
+HOW TO USE: paste snippets into the email body in HTML/source view, then replace the CAPS placeholders.
+Every snippet carries its own styling on purpose. Gmail throws away shared styles when NationBuilder re-wraps the email, so nothing here relies on them.
+Two rules when editing: (1) keep the style="..." text on each tag exactly as it is; (2) never put a font name in quotes anywhere in an email or theme.
+Add ?utm_source=nationbuilder&utm_medium=email&utm_campaign=CAMPAIGN_NAME to every store link so sales show up in Shopify.
+
+HERO IMAGE:
+<p style="margin:0 0 20px;"><a href="LINK" style="text-decoration:none;"><img src="IMAGE_URL" width="528" alt="DESCRIPTION" style="display:block;width:100%;max-width:100%;height:auto;border:0;"></a></p>
+
+HEADLINE:
+<h1 style="margin:0 0 14px;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:30px;line-height:34px;font-weight:800;letter-spacing:.01em;text-transform:uppercase;color:#FFFFFF;">HEADLINE</h1>
+
+SECTION HEADING:
+<h2 style="margin:28px 0 12px;padding:0 0 0 10px;border-left:4px solid #DE1F3E;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:21px;line-height:25px;font-weight:800;letter-spacing:.02em;text-transform:uppercase;color:#FFFFFF;">SECTION HEADING</h2>
+
+PARAGRAPH (bold a phrase with <strong style="color:#FFFFFF;">PHRASE</strong>):
+<p style="margin:0 0 16px;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:16px;line-height:25px;color:#E4E6E8;">ONE OR TWO SENTENCES ABOUT THE STORY BEHIND THE DESIGN.</p>
+
+BUTTON:
+<p style="margin:6px 0 22px;text-align:center;"><a class="rns-btn" href="LINK" style="display:inline-block;background-color:#DE1F3E;color:#FFFFFF;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:16px;line-height:20px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;text-decoration:none;border-top:14px solid #DE1F3E;border-bottom:14px solid #DE1F3E;border-left:28px solid #DE1F3E;border-right:28px solid #DE1F3E;">Shop the collection</a></p>
+
+TWO-UP PRODUCT ROW (repeat the whole table for more rows):
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;"><tbody><tr><td class="rns-col rns-card" width="50%" align="center" valign="top" style="width:50%;padding:8px 7px 24px;text-align:center;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:15px;line-height:20px;color:#FFFFFF;"><a href="LINK" style="text-decoration:none;"><img src="IMAGE_URL" width="250" alt="PRODUCT NAME" style="display:block;width:100%;max-width:250px;height:auto;margin:0 auto;border:0;"></a><p style="margin:10px 0 4px;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:15px;line-height:20px;font-weight:700;color:#FFFFFF;">PRODUCT NAME</p><p style="margin:0 0 8px;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:15px;line-height:20px;font-weight:700;color:#FEC70A;">$39 CAD</p><p style="margin:0;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:13px;line-height:18px;"><a class="rns-shop" href="LINK" style="font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#FFFFFF;text-decoration:none;border-bottom:2px solid #DE1F3E;">Shop &rarr;</a></p></td><td class="rns-col rns-card" width="50%" align="center" valign="top" style="width:50%;padding:8px 7px 24px;text-align:center;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:15px;line-height:20px;color:#FFFFFF;"><a href="LINK" style="text-decoration:none;"><img src="IMAGE_URL" width="250" alt="PRODUCT NAME" style="display:block;width:100%;max-width:250px;height:auto;margin:0 auto;border:0;"></a><p style="margin:10px 0 4px;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:15px;line-height:20px;font-weight:700;color:#FFFFFF;">PRODUCT NAME</p><p style="margin:0 0 8px;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:15px;line-height:20px;font-weight:700;color:#FEC70A;">$39 CAD</p><p style="margin:0;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:13px;line-height:18px;"><a class="rns-shop" href="LINK" style="font-weight:700;letter-spacing:.05em;text-transform:uppercase;color:#FFFFFF;text-decoration:none;border-bottom:2px solid #DE1F3E;">Shop &rarr;</a></p></td></tr></tbody></table>
+Optional one-line description under the price: <p style="margin:0 0 8px;font-size:13px;line-height:19px;color:#B4B8BC;">SHORT DESCRIPTION</p>
+
+DISCOUNT CODE BOX (gold dashed):
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;margin:0 0 18px;"><tbody><tr><td align="center" bgcolor="#15181C" style="background-color:#15181C;border:2px dashed #FEC70A;padding:14px 12px;text-align:center;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:17px;line-height:23px;font-weight:700;letter-spacing:.02em;color:#FFFFFF;">Use code CODE for 15% off until DATE</td></tr></tbody></table>
+
+CHRISTMAS: ORDER-BY DEADLINE BOX (green; use the right date for the audience, e.g. Dec. 10 for Canada, 5 December for Australia):
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="width:100%;border-collapse:collapse;margin:0 0 18px;"><tbody><tr><td align="center" bgcolor="#0C2A1A" style="background-color:#0C2A1A;border:2px solid #2F8F4E;padding:14px 12px;text-align:center;font-family:Trebuchet MS,Arial,Helvetica,sans-serif;font-size:17px;line-height:23px;font-weight:700;letter-spacing:.02em;color:#FFFFFF;">&#10052;&#xFE0E; Order by DATE for Christmas delivery<br><span style="font-size:13px;line-height:19px;font-weight:400;letter-spacing:0;color:#C9E7D3;">Made to order and printed near you</span></td></tr></tbody></table>
+
+CHRISTMAS: SNOWFLAKE DIVIDER (between sections):
+<p style="margin:26px 0;"><img src="https://assets.nationbuilder.com/themes/6b033dd441324004ff0ce0f4/attachments/original/1795374562/xmas_divider_snowflakes.png" width="528" alt="" style="display:block;width:100%;max-width:100%;height:auto;border:0;"></p>
