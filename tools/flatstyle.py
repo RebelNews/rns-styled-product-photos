@@ -33,8 +33,9 @@ def staged(jpg):
     r = requests.post(t['url'], data={p['name']: p['value'] for p in t['parameters']}, files={'file': ('a.jpg', jpg, 'image/jpeg')}, timeout=120)
     if r.status_code not in (200, 201, 204): raise RuntimeError(f'staged upload HTTP {r.status_code}')
     return t['resourceUrl']
-def one(pid, only=None, shared=False):
-    """only: set of colour names to do (None = all). shared: also fix colours whose variants share a photo with another colour."""
+def one(pid, only=None, shared=False, skip_done=False):
+    """only: set of colour names to do (None = all). shared: also fix colours whose variants share a photo with another colour.
+    skip_done: leave colours whose photo already carries the "<title> - <colour>" alt text these jobs write."""
     p = shop.gql(Q, {'id': f'gid://shopify/Product/{pid}'})['product']
     cols = [c['handle'] for c in p['collections']['nodes']]
     colour_of, media_of, users, vids_of = {}, {}, {}, {}
@@ -51,6 +52,11 @@ def one(pid, only=None, shared=False):
         col = colour_of.get(str(sv.get('external_id')))
         if col and sv.get('synced') and col not in reps and (only is None or col in only): reps[col] = sv
     if not reps: print(pid, 'no colours matched'); return 0
+    if skip_done:
+        alt_of = {m['id']: (m.get('alt') or '') for m in p['media']['nodes']}
+        done = [c for c in reps if len(media_of.get(c) or ()) == 1 and len(users[next(iter(media_of[c]))]) == 1 and alt_of.get(next(iter(media_of[c]))) == f"{p['title']} - {c}"]
+        for c in done: reps.pop(c)
+        if not reps: print(pid, 'already done:', len(done), 'colours'); return 0
     missing = sorted(set(colour_of.values()) - set(reps)) if only is None else sorted(set(only) - set(reps))
     if missing:
         svs = j['result']['sync_variants']
@@ -139,6 +145,14 @@ def one(pid, only=None, shared=False):
                 if (media_of.get(col) or set()) != {tg[col]}: repoint += [{'id': v, 'mediaId': tg[col]} for v in vids_of[col]]
             else:
                 added.append({'originalSource': src, 'alt': alt, 'mediaContentType': 'IMAGE'}); repoint += [{'id': v, 'mediaSrc': [src]} for v in vids_of[col]]
+    feat = (p.get('featuredMedia') or {}).get('id')
+    if feat and feat not in users:
+        try:
+            u = next((m.get('image') or {}).get('url') for m in p['media']['nodes'] if m['id'] == feat)
+            im = Image.open(io.BytesIO(requests.get(u + ('&' if '?' in u else '?') + 'width=96', timeout=60).content)).convert('RGB'); w, h = im.size
+            pts = [im.getpixel(xy) for xy in ((1, 1), (w // 2, 1), (w - 2, 1), (1, h - 2), (w // 2, h - 2), (w - 2, h - 2), (1, h // 2), (w - 2, h // 2))]
+            if sum(min(q) > 236 for q in pts) >= 6 or sum(max(q) < 22 for q in pts) >= 6: print(pid, 'LEAD photo is plain and not linked to any colour; left as is', flush=True)
+        except Exception as e: print(pid, 'lead check failed', type(e).__name__)
     if not files and not repoint: return 0
     n = 0
     if files:
@@ -154,12 +168,12 @@ def one(pid, only=None, shared=False):
         print(pid, 'variants re-pointed', len(d['productVariants'] or []), '| photos added', len(added), flush=True); n += len(added)
     return n
 BLANKS = []
-def run(pids, minutes=85, only=None, shared=False):
+def run(pids, minutes=85, only=None, shared=False, skip_done=False):
     """only: {product id: [colour names]} to limit the colours done on each product."""
     t0 = time.time(); total = 0; errs = 0
     for i, pid in enumerate(pids):
         if time.time() - t0 > minutes * 60: print('time budget reached; not done:', pids[i:]); break
-        try: n = one(pid, set(only[pid]) if only and pid in only else None, shared); total += n; print(pid, 'swapped', n, flush=True)
+        try: n = one(pid, set(only[pid]) if only and pid in only else None, shared, skip_done); total += n; print(pid, 'swapped', n, flush=True)
         except Exception as e:
             errs += 1; print(pid, 'ERROR', type(e).__name__, str(e)[:200], flush=True)
             if errs >= 3: print('stopping after 3 errors; not done:', pids[i + 1:]); break
