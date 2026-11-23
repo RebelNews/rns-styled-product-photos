@@ -49,10 +49,10 @@ def one(pid):
         if f and (f.get('url') or f.get('preview_url')): groups.setdefault(f['id'], {'f': f, 'vars': {}})['vars'][sv['variant_id']] = col
     imgs = {}
     for g in groups.values():
-        f = g['f']; area = sizes[vp[next(iter(g['vars']))]['front']]
+        f = g['f']; v1 = next(iter(g['vars'])); pl = f['type'] if f['type'] in vp[v1] else 'front'; area = sizes[vp[v1][pl]]
         w = area['width']; h = round(f['height'] * w / f['width'])
         if h > area['height']: h = area['height']; w = round(f['width'] * h / f['height'])
-        body = {'variant_ids': list(g['vars']), 'format': 'png', 'option_groups': want, 'files': [{'placement': 'front', 'image_url': f.get('url') or f['preview_url'], 'position': {'area_width': area['width'], 'area_height': area['height'], 'width': w, 'height': h, 'top': 0, 'left': (area['width'] - w) // 2}}]}
+        body = {'variant_ids': list(g['vars']), 'format': 'png', 'option_groups': want, 'files': [{'placement': pl, 'image_url': f.get('url') or f['preview_url'], 'position': {'area_width': area['width'], 'area_height': area['height'], 'width': w, 'height': h, 'top': 0, 'left': (area['width'] - w) // 2}}]}
         c, t = shop.pf(f'/mockup-generator/create-task/{prod}', 'POST', json=body)
         if c != 200: print(pid, 'task failed', c, str(t)[:160], list(g['vars'].values())); continue
         for _ in range(45):
@@ -60,7 +60,7 @@ def one(pid):
             if st != 'pending': break
         if st != 'completed': print(pid, 'task', st, str((s.get('result') or {}).get('error'))[:160], list(g['vars'].values()), flush=True)
         for mk in (s.get('result') or {}).get('mockups') or []:
-            if mk.get('placement') not in (None, 'front'): continue
+            if mk.get('placement') not in (None, pl): continue
             for vid in mk.get('variant_ids') or []:
                 if vid in g['vars'] and mk.get('mockup_url'): imgs[g['vars'][vid]] = mk['mockup_url']
         time.sleep(12)
