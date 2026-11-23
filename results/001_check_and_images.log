@@ -1,0 +1,9 @@
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+{'shop': {'name': 'Rebel News', 'myshopifyDomain': 'the-rebel-store.myshopify.com'}}
+printful /store 400 This endpoint requires `store_id`!
+printful /sync/products?limit=1 400 This endpoint requires `store_id`!
+printful /mockup-generator/printfiles/71 400 This endpoint requires `store_id`!
+printful /mockup-generator/templates/71 400 This endpoint requires `store_id`!
+printful /product-templates?limit=1 200 {'total': 46, 'limit': 1, 'offset': 0}
+printful /files?limit=1 400 This endpoint requires `store_id`!
+images swapped 55 of 55
