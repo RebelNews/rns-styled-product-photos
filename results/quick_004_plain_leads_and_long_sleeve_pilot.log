@@ -1,0 +1,71 @@
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+LEAD PHOTOS swapped 27 of 27 | now 1600 px: 27 | not yet: []
+long-sleeve blank: Printful product 356 Unisex Long Sleeve Tee | Bella + Canvas 3501 | colours ['Athletic Heather', 'Black', 'Black Heather', 'Dark Grey Heather', 'Gold', 'Heather Deep Teal', 'Heather Forest', 'Heather Mauve', 'Heather Navy', 'Maroon', 'Military Green', 'Navy', 'Red', 'Storm', 'True Royal', 'White'] | sizes ['2XL', 'L', 'M', 'S', 'XL', 'XS']
+placements on the blank: ['back', 'back_large', 'embroidery_wrist_left', 'embroidery_wrist_right', 'front', 'front_large', 'label_inside', 'label_inside_dtf', 'label_outside', 'sleeve_left', 'sleeve_right'] | mock-up styles: ['Flat', 'Flat 2', 'Ghost', 'Labels', "Men's", "Men's 2", "Men's 3", "Men's 4", "Men's Lifestyle", 'On Hanger', 'Product details', 'Spring/summer vibes', "Women's", "Women's Lifestyle", 'Wrinkled']
+Justified Stamp Unisex T-Shirt | tee colours ['Black', 'Navy', 'Athletic Heather', 'White'] | long-sleeve colours ['Black', 'Navy', 'Athletic Heather', 'White'] | left out [] | print files {'Black': (1118738673, 'front_large', 4500, 6000, False), 'Navy': (1118738673, 'front_large', 4500, 6000, False), 'Athletic Heather': (1118738673, 'front_large', 4500, 6000, False), 'White': (1118738673, 'front_large', 4500, 6000, False)}
+created Justified Stamp Unisex Long Sleeve Shirt 15503842279558
+  collection new-arrivals -> added
+  collection freedom-convoy -> added
+  collection justified -> added
+  collection clothing -> added
+  collection long-sleeve-t-shirts -> added
+  first link: Black S -> blank variant 10094 | file as front_large | placement sent {'area_width': 2250, 'area_height': 2700, 'width': 2025, 'height': 2700, 'top': 0, 'left': 112} | HTTP 200 
+Justified Stamp Unisex Long Sleeve Shirt | variants linked 20 of 20 | failed []
+15503842279558 Black print file 1118738673 front_large justified-stamp-dark.png preview-only | all types ['front_large', 'preview']
+15503842279558 Navy print file 1118738673 front_large justified-stamp-dark.png preview-only | all types ['front_large', 'preview']
+15503842279558 Athletic Heather print file 1118738673 front_large justified-stamp-dark.png preview-only | all types ['front_large', 'preview']
+15503842279558 White print file 1118738673 front_large justified-stamp-dark.png preview-only | all types ['front_large', 'preview']
+15503842279558 LINKS now: {'Black': [], 'Navy': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15503842279558 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15503842279558 Black -> maple
+15503842279558 Navy -> snowroad
+15503842279558 Athletic Heather -> road
+15503842279558 White -> truckbed
+15503842279558 variants re-pointed 20 | photos added 4
+Justified Stamp Unisex Long Sleeve Shirt | colour photos made 4 of 4
+Justified Stamp Unisex T-Shirt ERROR RuntimeError [{'message': 'Access denied for inventoryLevels field. Required access: `read_inventory` access scope.', 'locations': [{'line': 1, 'column': 116}], 'extensions': {'code': 'ACCESS_DENIED', 'documentation': 'https://shopify.dev/api/usage/access-scopes', 'requiredAccess': '`read_inventory` access scope
+Hands Off Our Guns Unisex T-Shirt | tee colours ['Black', 'Military Green', 'Dark Grey Heather', 'Athletic Heather', 'White'] | long-sleeve colours ['Black', 'Military Green', 'Dark Grey Heather', 'Athletic Heather', 'White'] | left out [] | print files {'Black': (1117063142, 'default', 2555, 3000, True), 'Military Green': (1117063142, 'default', 2555, 3000, True), 'Dark Grey Heather': (1117063142, 'default', 2555, 3000, True), 'Athletic Heather': (1117063142, 'front_large', 2555, 3000, True), 'White': (1117063142, 'front_large', 2555, 3000, True)}
+created Hands Off Our Guns Unisex Long Sleeve Shirt 15503842902150
+  collection new-arrivals -> added
+  collection hands-off-our-guns -> added
+  collection clothing -> added
+  collection long-sleeve-t-shirts -> added
+  first link: Black S -> blank variant 10094 | file as front | placement sent {'area_width': 1800, 'area_height': 2400, 'width': 1800, 'height': 2114, 'top': 0, 'left': 0} | HTTP 200 
+Hands Off Our Guns Unisex Long Sleeve Shirt | variants linked 25 of 25 | failed []
+15503842902150 Black print file 1117063142 default rn26n_nl1_art.png url | all types ['default', 'preview']
+15503842902150 Military Green print file 1117063142 default rn26n_nl1_art.png url | all types ['default', 'preview']
+15503842902150 Dark Grey Heather print file 1117063142 default rn26n_nl1_art.png url | all types ['default', 'preview']
+15503842902150 Athletic Heather print file 1117063142 front_large rn26n_nl1_art.png url | all types ['front_large', 'preview']
+15503842902150 White print file 1117063142 front_large rn26n_nl1_art.png url | all types ['front_large', 'preview']
+15503842902150 LINKS now: {'Black': [], 'Military Green': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15503842902150 PLAN: {'Black': 'NEW', 'Military Green': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15503842902150 Black -> bench
+15503842902150 Military Green -> beach
+15503842902150 Dark Grey Heather -> bench
+15503842902150 Athletic Heather -> forest
+15503842902150 White -> camp
+15503842902150 variants re-pointed 25 | photos added 5
+Hands Off Our Guns Unisex Long Sleeve Shirt | colour photos made 5 of 5
+Hands Off Our Guns Unisex T-Shirt ERROR RuntimeError [{'message': 'Access denied for inventoryLevels field. Required access: `read_inventory` access scope.', 'locations': [{'line': 1, 'column': 116}], 'extensions': {'code': 'ACCESS_DENIED', 'documentation': 'https://shopify.dev/api/usage/access-scopes', 'requiredAccess': '`read_inventory` access scope
+I Identify as a Conspiracy Theorist Unisex T-Shirt | tee colours ['Black', 'Navy', 'Dark Grey Heather'] | long-sleeve colours ['Black', 'Navy', 'Dark Grey Heather'] | left out [] | print files {'Black': (554530522, 'default', 8000, 7988, False), 'Navy': (554530522, 'default', 8000, 7988, False), 'Dark Grey Heather': (554530522, 'default', 8000, 7988, False)}
+created I Identify as a Conspiracy Theorist Unisex Long Sleeve Shirt 15503843459206
+  collection political-humour -> added
+  collection clothing -> added
+  collection long-sleeve-t-shirts -> added
+  first link: Black S -> blank variant 10094 | file as front | placement sent {'area_width': 1800, 'area_height': 2400, 'width': 1800, 'height': 1797, 'top': 0, 'left': 0} | HTTP 200 
+I Identify as a Conspiracy Theorist Unisex Long Sleeve Shirt | variants linked 15 of 15 | failed []
+15503843459206 Black print file 554530522 default Store_I-Identify-As_BLACK.png preview-only | all types ['default', 'preview']
+15503843459206 Navy print file 554530522 default Store_I-Identify-As_BLACK.png preview-only | all types ['default', 'preview']
+15503843459206 Dark Grey Heather print file 554530522 default Store_I-Identify-As_BLACK.png preview-only | all types ['default', 'preview']
+15503843459206 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': []} | lead photo NEW | photos 0
+15503843459206 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW'}
+15503843459206 Black -> newsprint
+15503843459206 Navy -> redpaper
+15503843459206 Dark Grey Heather -> newsprint
+15503843459206 variants re-pointed 15 | photos added 3
+I Identify as a Conspiracy Theorist Unisex Long Sleeve Shirt | colour photos made 3 of 3
+I Identify as a Conspiracy Theorist Unisex T-Shirt ERROR RuntimeError [{'message': 'Access denied for inventoryLevels field. Required access: `read_inventory` access scope.', 'locations': [{'line': 1, 'column': 116}], 'extensions': {'code': 'ACCESS_DENIED', 'documentation': 'https://shopify.dev/api/usage/access-scopes', 'requiredAccess': '`read_inventory` access scope
+PILOT Justified Stamp Unisex T-Shirt | None | error: RuntimeError
+PILOT Hands Off Our Guns Unisex T-Shirt | None | error: RuntimeError
+PILOT I Identify as a Conspiracy Theorist Unisex T-Shirt | None | error: RuntimeError
+TOTAL lead photos 27 of 27 | long sleeves ready 0 of 3
