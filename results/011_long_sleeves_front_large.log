@@ -1,0 +1,578 @@
+long-sleeve blank: Printful product 356 | colours ['Athletic Heather', 'Black', 'Black Heather', 'Dark Grey Heather', 'Gold', 'Heather Deep Teal', 'Heather Forest', 'Heather Mauve', 'Heather Navy', 'Maroon', 'Military Green', 'Navy', 'Red', 'Storm', 'True Royal', 'White']
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+  stock at Printful refused: [{'field': ['input', 'variants', '0', 'sku'], 'message': "SKU can't be blank", 'code': 'INVALID_VARIANT'}, {'field': ['input', 'variants', '1', 'sku'], 'message': "SKU can't be blank", 'code': 'INVALID_VARIANT'}]
+15504603906182 Black print file 1117450862 default rn26r_41_art.png url | all types ['default', 'preview']
+15504603906182 Navy print file 1117450862 default rn26r_41_art.png url | all types ['default', 'preview']
+15504603906182 Dark Grey Heather print file 1117450862 default rn26r_41_art.png url | all types ['default', 'preview']
+15504603906182 Athletic Heather print file 1117450862 front_large rn26r_41_art.png url | all types ['front_large', 'preview']
+15504603906182 White print file 1117450862 front_large rn26r_41_art.png url | all types ['front_large', 'preview']
+15504603906182 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504603906182 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504603906182 Black -> newsprint
+15504603906182 Navy -> redpaper
+15504603906182 Dark Grey Heather -> newsprint
+15504603906182 Athletic Heather -> newsdesk
+15504603906182 White -> navy
+15504603906182 variants re-pointed 25 | photos added 5
+No to the EU Unisex Long Sleeve Shirt 15504603906182 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 1 min
+15504608919686 Black print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15504608919686 Navy print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15504608919686 Dark Grey Heather print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15504608919686 Athletic Heather print file 1119089622 front_large defund-the-abc-light.png preview-only | all types ['front_large', 'preview']
+15504608919686 White print file 1119089622 front_large defund-the-abc-light.png preview-only | all types ['front_large', 'preview']
+15504608919686 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504608919686 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504608919686 Black -> beach
+15504608919686 Navy -> outback
+15504608919686 Dark Grey Heather -> beach
+15504608919686 Athletic Heather -> outback
+15504608919686 White -> outback
+15504608919686 variants re-pointed 25 | photos added 5
+Defund the ABC Unisex Long Sleeve Shirt 15504608919686 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 3 min
+15504615637126 Black print file 1117142121 default rn26r_26_art.png url | all types ['default', 'preview']
+15504615637126 Navy print file 1117142121 default rn26r_26_art.png url | all types ['default', 'preview']
+15504615637126 Dark Grey Heather print file 1117142121 default rn26r_26_art.png url | all types ['default', 'preview']
+15504615637126 Athletic Heather print file 1119105403 front_large hebrews-1229-consuming-fire-light.png preview-only | all types ['front_large', 'preview']
+15504615637126 White print file 1119105403 front_large hebrews-1229-consuming-fire-light.png preview-only | all types ['front_large', 'preview']
+15504615637126 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504615637126 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504615637126 Black -> linen
+15504615637126 Navy -> linen
+15504615637126 Dark Grey Heather -> pew
+15504615637126 Athletic Heather -> wood
+15504615637126 White -> wood
+15504615637126 variants re-pointed 25 | photos added 5
+Hebrews 12:29 Consuming Fire Unisex Long Sleeve Shirt 15504615637126 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 5 min
+15504622026886 Black print file 1117142103 default rn26r_25_art.png url | all types ['default', 'preview']
+15504622026886 Navy print file 1117142103 default rn26r_25_art.png url | all types ['default', 'preview']
+15504622026886 Dark Grey Heather print file 1117142103 default rn26r_25_art.png url | all types ['default', 'preview']
+15504622026886 Athletic Heather print file 1119107934 front_large isaiah-4031-wings-as-eagles-light.png preview-only | all types ['front_large', 'preview']
+15504622026886 White print file 1119107934 front_large isaiah-4031-wings-as-eagles-light.png preview-only | all types ['front_large', 'preview']
+15504622026886 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504622026886 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504622026886 Black -> linen
+15504622026886 Navy -> linen
+15504622026886 Dark Grey Heather -> pew
+15504622026886 Athletic Heather -> wood
+15504622026886 White -> wood
+15504622026886 variants re-pointed 25 | photos added 5
+Isaiah 40:31 Wings as Eagles Unisex Long Sleeve Shirt 15504622026886 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 7 min
+15504630448262 Black print file 1117142071 default rn26r_24_art.png url | all types ['default', 'preview']
+15504630448262 Navy print file 1117142071 default rn26r_24_art.png url | all types ['default', 'preview']
+15504630448262 Dark Grey Heather print file 1117142071 default rn26r_24_art.png url | all types ['default', 'preview']
+15504630448262 Athletic Heather print file 1119089655 front_large ephesians-611-armour-of-god-light.png preview-only | all types ['front_large', 'preview']
+15504630448262 White print file 1119089655 front_large ephesians-611-armour-of-god-light.png preview-only | all types ['front_large', 'preview']
+15504630448262 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504630448262 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504630448262 Black -> linen
+15504630448262 Navy -> pew
+15504630448262 Dark Grey Heather -> linen
+15504630448262 Athletic Heather -> wood
+15504630448262 White -> wood
+15504630448262 variants re-pointed 25 | photos added 5
+Ephesians 6:11 Armour of God Unisex Long Sleeve Shirt 15504630448262 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 9 min
+15504642310278 Black print file 1117142043 default rn26r_23_art.png url | all types ['default', 'preview']
+15504642310278 Navy print file 1117142043 default rn26r_23_art.png url | all types ['default', 'preview']
+15504642310278 Dark Grey Heather print file 1117142043 default rn26r_23_art.png url | all types ['default', 'preview']
+15504642310278 Athletic Heather print file 1119075190 front_large acts-529-obey-god-light.png preview-only | all types ['front_large', 'preview']
+15504642310278 White print file 1119075190 front_large acts-529-obey-god-light.png preview-only | all types ['front_large', 'preview']
+15504642310278 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504642310278 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504642310278 Black -> linen
+15504642310278 Navy -> pew
+15504642310278 Dark Grey Heather -> linen
+15504642310278 Athletic Heather -> wood
+15504642310278 White -> wood
+15504642310278 variants re-pointed 25 | photos added 5
+Acts 5:29 Obey God Unisex Long Sleeve Shirt 15504642310278 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 10 min
+15504648863878 Black print file 1117142033 default rn26r_22_art.png url | all types ['default', 'preview']
+15504648863878 Navy print file 1117142033 default rn26r_22_art.png url | all types ['default', 'preview']
+15504648863878 Dark Grey Heather print file 1117142033 default rn26r_22_art.png url | all types ['default', 'preview']
+15504648863878 Athletic Heather print file 1119116407 front_large joshua-19-be-strong-light.png preview-only | all types ['front_large', 'preview']
+15504648863878 White print file 1119116407 front_large joshua-19-be-strong-light.png preview-only | all types ['front_large', 'preview']
+15504648863878 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504648863878 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504648863878 Black -> linen
+15504648863878 Navy -> pew
+15504648863878 Dark Grey Heather -> linen
+15504648863878 Athletic Heather -> wood
+15504648863878 White -> wood
+15504648863878 variants re-pointed 25 | photos added 5
+Joshua 1:9 Be Strong Unisex Long Sleeve Shirt 15504648863878 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 12 min
+15504656334982 Black print file 1117142012 default rn26r_21_art.png url | all types ['default', 'preview']
+15504656334982 Navy print file 1117142012 default rn26r_21_art.png url | all types ['default', 'preview']
+15504656334982 Dark Grey Heather print file 1117142012 default rn26r_21_art.png url | all types ['default', 'preview']
+15504656334982 Athletic Heather print file 1119074915 front_large 2-corinthians-317-liberty-light.png preview-only | all types ['front_large', 'preview']
+15504656334982 White print file 1119074915 front_large 2-corinthians-317-liberty-light.png preview-only | all types ['front_large', 'preview']
+15504656334982 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504656334982 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504656334982 Black -> linen
+15504656334982 Navy -> pew
+15504656334982 Dark Grey Heather -> linen
+15504656334982 Athletic Heather -> wood
+15504656334982 White -> wood
+15504656334982 variants re-pointed 25 | photos added 5
+2 Corinthians 3:17 Liberty Unisex Long Sleeve Shirt 15504656334982 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 14 min
+15504663773318 Black print file 1117141978 default rn26r_20_art.png url | all types ['default', 'preview']
+15504663773318 Navy print file 1117141978 default rn26r_20_art.png url | all types ['default', 'preview']
+15504663773318 Dark Grey Heather print file 1117141978 default rn26r_20_art.png url | all types ['default', 'preview']
+15504663773318 Athletic Heather print file 1119130436 front_large psalm-728-sea-to-sea-light.png preview-only | all types ['front_large', 'preview']
+15504663773318 White print file 1119130436 front_large psalm-728-sea-to-sea-light.png preview-only | all types ['front_large', 'preview']
+15504663773318 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504663773318 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504663773318 Black -> linen
+15504663773318 Navy -> pew
+15504663773318 Dark Grey Heather -> linen
+15504663773318 Athletic Heather -> wood
+15504663773318 White -> wood
+15504663773318 variants re-pointed 25 | photos added 5
+Psalm 72:8 Sea to Sea Unisex Long Sleeve Shirt 15504663773318 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 16 min
+15504670883974 Black print file 1117141919 default rn26r_14_art.png url | all types ['default', 'preview']
+15504670883974 Navy print file 1117141919 default rn26r_14_art.png url | all types ['default', 'preview']
+15504670883974 Dark Grey Heather print file 1117141919 default rn26r_14_art.png url | all types ['default', 'preview']
+15504670883974 Athletic Heather print file 1119130270 front_large no-farms-no-food-light.png preview-only | all types ['front_large', 'preview']
+15504670883974 White print file 1119130270 front_large no-farms-no-food-light.png preview-only | all types ['front_large', 'preview']
+15504670883974 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504670883974 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504670883974 Black -> prairie
+15504670883974 Navy -> bench
+15504670883974 Dark Grey Heather -> truckbed
+15504670883974 Athletic Heather -> bluebarn
+15504670883974 White -> wood
+15504670883974 variants re-pointed 25 | photos added 5
+No Farms, No Food Unisex Long Sleeve Shirt 15504670883974 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 18 min
+15504678027398 Black print file 1117141898 default rn26r_13_art.png url | all types ['default', 'preview']
+15504678027398 Navy print file 1117141898 default rn26r_13_art.png url | all types ['default', 'preview']
+15504678027398 Dark Grey Heather print file 1117141898 default rn26r_13_art.png url | all types ['default', 'preview']
+15504678027398 Athletic Heather print file 1117141898 front_large rn26r_13_art.png url | all types ['front_large', 'preview']
+15504678027398 White print file 1117141898 front_large rn26r_13_art.png url | all types ['front_large', 'preview']
+15504678027398 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504678027398 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504678027398 Black -> prairie
+15504678027398 Navy -> bench
+15504678027398 Dark Grey Heather -> truckbed
+15504678027398 Athletic Heather -> bluebarn
+15504678027398 White -> wood
+15504678027398 variants re-pointed 25 | photos added 5
+Save Alberta Farms Unisex Long Sleeve Shirt 15504678027398 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 19 min
+15504684449926 Black print file 1117141822 default rn26r_11_art.png url | all types ['default', 'preview']
+15504684449926 Navy print file 1117141822 default rn26r_11_art.png url | all types ['default', 'preview']
+15504684449926 Dark Grey Heather print file 1117141822 default rn26r_11_art.png url | all types ['default', 'preview']
+15504684449926 Athletic Heather print file 1117141822 front_large rn26r_11_art.png url | all types ['front_large', 'preview']
+15504684449926 White print file 1117141822 front_large rn26r_11_art.png url | all types ['front_large', 'preview']
+15504684449926 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504684449926 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504684449926 Black -> prairie
+15504684449926 Navy -> bench
+15504684449926 Dark Grey Heather -> truckbed
+15504684449926 Athletic Heather -> bluebarn
+15504684449926 White -> wood
+15504684449926 variants re-pointed 25 | photos added 5
+The West Wants Out Unisex Long Sleeve Shirt 15504684449926 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 21 min
+15504690380934 Black print file 1117141790 default rn26r_10_art.png url | all types ['default', 'preview']
+15504690380934 Navy print file 1117141790 default rn26r_10_art.png url | all types ['default', 'preview']
+15504690380934 Dark Grey Heather print file 1117141790 default rn26r_10_art.png url | all types ['default', 'preview']
+15504690380934 Athletic Heather print file 1117141790 front_large rn26r_10_art.png url | all types ['front_large', 'preview']
+15504690380934 White print file 1117141790 front_large rn26r_10_art.png url | all types ['front_large', 'preview']
+15504690380934 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504690380934 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504690380934 Black -> prairie
+15504690380934 Navy -> bench
+15504690380934 Dark Grey Heather -> truckbed
+15504690380934 Athletic Heather -> bluebarn
+15504690380934 White -> wood
+15504690380934 variants re-pointed 25 | photos added 5
+Alberta Makes, Ottawa Takes Unisex Long Sleeve Shirt 15504690380934 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 22 min
+15504694182022 Black print file 1117063216 default rn26n_nl9_art.png url | all types ['default', 'preview']
+15504694182022 Navy print file 1117063216 default rn26n_nl9_art.png url | all types ['default', 'preview']
+15504694182022 Dark Grey Heather print file 1117063216 default rn26n_nl9_art.png url | all types ['default', 'preview']
+15504694182022 Athletic Heather print file 1117063216 front_large rn26n_nl9_art.png url | all types ['front_large', 'preview']
+15504694182022 White print file 1117063216 front_large rn26n_nl9_art.png url | all types ['front_large', 'preview']
+15504694182022 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504694182022 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504694182022 Black -> newsprint
+15504694182022 Navy -> redpaper
+15504694182022 Dark Grey Heather -> newsprint
+15504694182022 Athletic Heather -> newsdesk
+15504694182022 White -> navy
+15504694182022 variants re-pointed 25 | photos added 5
+Free Speech Is Not Hate Speech Unisex Long Sleeve Shirt 15504694182022 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 24 min
+15504698048646 Black print file 1117063206 default rn26n_nl8_art.png url | all types ['default', 'preview']
+15504698048646 Navy print file 1117063206 default rn26n_nl8_art.png url | all types ['default', 'preview']
+15504698048646 Dark Grey Heather print file 1117063206 default rn26n_nl8_art.png url | all types ['default', 'preview']
+15504698048646 Athletic Heather print file 1119125887 front_large mean-tweets-are-not-a-crime-light.png preview-only | all types ['front_large', 'preview']
+15504698048646 White print file 1119125887 front_large mean-tweets-are-not-a-crime-light.png preview-only | all types ['front_large', 'preview']
+15504698048646 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504698048646 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504698048646 Black -> newsprint
+15504698048646 Navy -> redpaper
+15504698048646 Dark Grey Heather -> newsprint
+15504698048646 Athletic Heather -> newsdesk
+15504698048646 White -> navy
+15504698048646 variants re-pointed 25 | photos added 5
+Mean Tweets Are Not a Crime Unisex Long Sleeve Shirt 15504698048646 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 26 min
+15504701620358 Black print file 1117063201 default rn26n_nl7_art.png url | all types ['default', 'preview']
+15504701620358 Navy print file 1117063201 default rn26n_nl7_art.png url | all types ['default', 'preview']
+15504701620358 Dark Grey Heather print file 1117063201 default rn26n_nl7_art.png url | all types ['default', 'preview']
+15504701620358 Athletic Heather print file 1117063201 front_large rn26n_nl7_art.png url | all types ['front_large', 'preview']
+15504701620358 White print file 1117063201 front_large rn26n_nl7_art.png url | all types ['front_large', 'preview']
+15504701620358 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504701620358 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504701620358 Black -> newsprint
+15504701620358 Navy -> redpaper
+15504701620358 Dark Grey Heather -> newsprint
+15504701620358 Athletic Heather -> newsdesk
+15504701620358 White -> navy
+15504701620358 variants re-pointed 25 | photos added 5
+Say It Anyway Unisex Long Sleeve Shirt 15504701620358 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 27 min
+15504704340102 Black print file 1117063192 default rn26n_nl6_art.png url | all types ['default', 'preview']
+15504704340102 Navy print file 1117063192 default rn26n_nl6_art.png url | all types ['default', 'preview']
+15504704340102 Dark Grey Heather print file 1117063192 default rn26n_nl6_art.png url | all types ['default', 'preview']
+15504704340102 Athletic Heather print file 1117063192 front_large rn26n_nl6_art.png url | all types ['front_large', 'preview']
+15504704340102 White print file 1117063192 front_large rn26n_nl6_art.png url | all types ['front_large', 'preview']
+15504704340102 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504704340102 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504704340102 Black -> linen
+15504704340102 Navy -> linen
+15504704340102 Dark Grey Heather -> pew
+15504704340102 Athletic Heather -> wood
+15504704340102 White -> wood
+15504704340102 variants re-pointed 25 | photos added 5
+Keep the Doors Open Unisex Long Sleeve Shirt 15504704340102 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 29 min
+15504706928774 Black print file 1117063187 default rn26n_nl5_art.png url | all types ['default', 'preview']
+15504706928774 Navy print file 1117063187 default rn26n_nl5_art.png url | all types ['default', 'preview']
+15504706928774 Dark Grey Heather print file 1117063187 default rn26n_nl5_art.png url | all types ['default', 'preview']
+15504706928774 Athletic Heather print file 1119128763 front_large not-ashamed-of-the-gospel-light.png preview-only | all types ['front_large', 'preview']
+15504706928774 White print file 1119128763 front_large not-ashamed-of-the-gospel-light.png preview-only | all types ['front_large', 'preview']
+15504706928774 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504706928774 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504706928774 Black -> linen
+15504706928774 Navy -> linen
+15504706928774 Dark Grey Heather -> pew
+15504706928774 Athletic Heather -> wood
+15504706928774 White -> wood
+15504706928774 variants re-pointed 25 | photos added 5
+Not Ashamed of the Gospel Unisex Long Sleeve Shirt 15504706928774 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 30 min
+15504709943430 Black print file 1117063180 default rn26n_nl4_art.png url | all types ['default', 'preview']
+15504709943430 Navy print file 1117063180 default rn26n_nl4_art.png url | all types ['default', 'preview']
+15504709943430 Dark Grey Heather print file 1117063180 default rn26n_nl4_art.png url | all types ['default', 'preview']
+15504709943430 Athletic Heather print file 1117063180 front_large rn26n_nl4_art.png url | all types ['front_large', 'preview']
+15504709943430 White print file 1117063180 front_large rn26n_nl4_art.png url | all types ['front_large', 'preview']
+15504709943430 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504709943430 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504709943430 Black -> linen
+15504709943430 Navy -> linen
+15504709943430 Dark Grey Heather -> pew
+15504709943430 Athletic Heather -> wood
+15504709943430 White -> wood
+15504709943430 variants re-pointed 25 | photos added 5
+Faith and Freedom Unisex Long Sleeve Shirt 15504709943430 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 32 min
+15504712794246 Black print file 1117063170 default rn26n_nl3_art.png url | all types ['default', 'preview']
+15504712794246 Military Green print file 1117063170 default rn26n_nl3_art.png url | all types ['default', 'preview']
+15504712794246 Dark Grey Heather print file 1117063170 default rn26n_nl3_art.png url | all types ['default', 'preview']
+15504712794246 Athletic Heather print file 1119105548 front_large law-abiding-gun-owner-light.png preview-only | all types ['front_large', 'preview']
+15504712794246 White print file 1119105548 front_large law-abiding-gun-owner-light.png preview-only | all types ['front_large', 'preview']
+15504712794246 LINKS now: {'Black': [], 'Military Green': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504712794246 PLAN: {'Black': 'NEW', 'Military Green': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504712794246 Black -> bench
+15504712794246 Military Green -> maple
+15504712794246 Dark Grey Heather -> bench
+15504712794246 Athletic Heather -> forest
+15504712794246 White -> camp
+15504712794246 variants re-pointed 25 | photos added 5
+Law-Abiding Gun Owner Unisex Long Sleeve Shirt 15504712794246 | Black, Military Green, Dark Grey Heather, Athletic Heather, White | READY, hidden | 34 min
+15504715743366 Black print file 1117063151 default rn26n_nl2_art.png url | all types ['default', 'preview']
+15504715743366 Military Green print file 1117063151 default rn26n_nl2_art.png url | all types ['default', 'preview']
+15504715743366 Dark Grey Heather print file 1117063151 default rn26n_nl2_art.png url | all types ['default', 'preview']
+15504715743366 Athletic Heather print file 1119115967 front_large hunters-sport-shooters-farmers-not-criminals-light.png preview-only | all types ['front_large', 'preview']
+15504715743366 White print file 1119115967 front_large hunters-sport-shooters-farmers-not-criminals-light.png preview-only | all types ['front_large', 'preview']
+15504715743366 LINKS now: {'Black': [], 'Military Green': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504715743366 PLAN: {'Black': 'NEW', 'Military Green': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504715743366 Black -> prairie
+15504715743366 Military Green -> maple
+15504715743366 Dark Grey Heather -> bench
+15504715743366 Athletic Heather -> forest
+15504715743366 White -> camp
+15504715743366 variants re-pointed 25 | photos added 5
+Hunters, Sport Shooters, Farmers: Not Criminals Unisex Long Sleeve Shirt 15504715743366 | Black, Military Green, Dark Grey Heather, Athletic Heather, White | READY, hidden | 36 min
+15504719216774 Black print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15504719216774 Navy print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15504719216774 Dark Grey Heather print file 1116772695 default xmas26w3_11_silent_night_tee_3x4_ad302641-3557-4d37-9f6a-c978c48da497.png url | all types ['default', 'preview']
+15504719216774 Athletic Heather print file 1118966138 front_large silent-night-not-on-our-watch-light.png preview-only | all types ['front_large', 'preview']
+15504719216774 White print file 1118966138 front_large silent-night-not-on-our-watch-light.png preview-only | all types ['front_large', 'preview']
+15504719216774 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504719216774 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504719216774 Black -> snowroad
+15504719216774 Navy -> redpaper
+15504719216774 Dark Grey Heather -> xmas_plaid
+15504719216774 Athletic Heather -> xmas_gifts
+15504719216774 White -> xmas_snow
+15504719216774 variants re-pointed 25 | photos added 5
+Silent Night? Not on Our Watch. Unisex Long Sleeve Shirt 15504719216774 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 38 min
+15504723607686 Black print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15504723607686 Navy print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15504723607686 Dark Grey Heather print file 1116772636 default xmas26w3_10_cant_crack_speech_tee_3x4_7124603b-5c64-492a-a2c9-e94f81e6ac23.png url | all types ['default', 'preview']
+15504723607686 Athletic Heather print file 1118965875 front_large you-cant-crack-free-speech-light.png preview-only | all types ['front_large', 'preview']
+15504723607686 White print file 1118965875 front_large you-cant-crack-free-speech-light.png preview-only | all types ['front_large', 'preview']
+15504723607686 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504723607686 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504723607686 Black -> snowroad
+15504723607686 Navy -> newsprint
+15504723607686 Dark Grey Heather -> redpaper
+15504723607686 Athletic Heather -> xmas_gifts
+15504723607686 White -> newsdesk
+15504723607686 variants re-pointed 25 | photos added 5
+You Can't Crack Free Speech Unisex Long Sleeve Shirt 15504723607686 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 39 min
+15504728522886 Black print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15504728522886 Navy print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15504728522886 Dark Grey Heather print file 1116772595 default xmas26w3_08_hold_the_line_tee_3x4_7a05eda2-4cd6-48a6-a9ad-e4b4ab819bea.png url | all types ['default', 'preview']
+15504728522886 Athletic Heather print file 1118860856 front_large ho-ho-hold-the-line-light.png preview-only | all types ['front_large', 'preview']
+15504728522886 White print file 1118860856 front_large ho-ho-hold-the-line-light.png preview-only | all types ['front_large', 'preview']
+15504728522886 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504728522886 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504728522886 Black -> snowroad
+15504728522886 Navy -> redpaper
+15504728522886 Dark Grey Heather -> xmas_plaid
+15504728522886 Athletic Heather -> xmas_gifts
+15504728522886 White -> xmas_snow
+15504728522886 variants re-pointed 25 | photos added 5
+Ho Ho, Hold the Line Unisex Long Sleeve Shirt 15504728522886 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 41 min
+15504734224518 Black print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15504734224518 Navy print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15504734224518 Dark Grey Heather print file 1116772564 default xmas26w3_07_true_north_merry_tee_3x4_30bad99f-f0ea-484c-abee-f962bd7adb23.png url | all types ['default', 'preview']
+15504734224518 Athletic Heather print file 1118965641 front_large true-north-strong-and-merry-light.png preview-only | all types ['front_large', 'preview']
+15504734224518 White print file 1118965641 front_large true-north-strong-and-merry-light.png preview-only | all types ['front_large', 'preview']
+15504734224518 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504734224518 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504734224518 Black -> snowroad
+15504734224518 Navy -> redpaper
+15504734224518 Dark Grey Heather -> xmas_plaid
+15504734224518 Athletic Heather -> xmas_gifts
+15504734224518 White -> xmas_snow
+15504734224518 variants re-pointed 25 | photos added 5
+True North, Strong & Merry Unisex Long Sleeve Shirt 15504734224518 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 43 min
+15504738975878 Black print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15504738975878 Navy print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15504738975878 Dark Grey Heather print file 1116772519 default xmas26w3_06_ottawa_bubble_tee_3x4_4075694d-a8b7-4b96-841d-e4ec896bf926.png url | all types ['default', 'preview']
+15504738975878 Athletic Heather print file 1118965285 front_large shake-up-the-ottawa-bubble-light.png preview-only | all types ['front_large', 'preview']
+15504738975878 White print file 1118965285 front_large shake-up-the-ottawa-bubble-light.png preview-only | all types ['front_large', 'preview']
+15504738975878 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504738975878 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504738975878 Black -> newsprint
+15504738975878 Navy -> snowroad
+15504738975878 Dark Grey Heather -> redpaper
+15504738975878 Athletic Heather -> xmas_gifts
+15504738975878 White -> newsdesk
+15504738975878 variants re-pointed 25 | photos added 5
+Shake Up the Ottawa Bubble Unisex Long Sleeve Shirt 15504738975878 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 45 min
+15504743661702 Black print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15504743661702 Navy print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15504743661702 Dark Grey Heather print file 1116772467 default xmas26w3_05_ottawa_taxes_coal_tee_3x4_c983da50-77f5-40f2-a7a2-b844feb9c2ba.png url | all types ['default', 'preview']
+15504743661702 Athletic Heather print file 1118865878 front_large santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['front_large', 'preview']
+15504743661702 White print file 1118865878 front_large santa-brings-coal-ottawa-taxes-it-light.png preview-only | all types ['front_large', 'preview']
+15504743661702 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504743661702 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504743661702 Black -> newsprint
+15504743661702 Navy -> snowroad
+15504743661702 Dark Grey Heather -> redpaper
+15504743661702 Athletic Heather -> xmas_gifts
+15504743661702 White -> newsdesk
+15504743661702 variants re-pointed 25 | photos added 5
+Santa Brings Coal. Ottawa Taxes It. Unisex Long Sleeve Shirt 15504743661702 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 47 min
+15504748281990 Black print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15504748281990 Navy print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15504748281990 Dark Grey Heather print file 1116772405 default xmas26w3_04_let_freedom_ring_tee_3x4_5abf71dc-ffc1-44f0-9111-dc0bf5fdbc35.png url | all types ['default', 'preview']
+15504748281990 Athletic Heather print file 1118845285 front_large let-freedom-ring-light.png preview-only | all types ['front_large', 'preview']
+15504748281990 White print file 1118845285 front_large let-freedom-ring-light.png preview-only | all types ['front_large', 'preview']
+15504748281990 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504748281990 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504748281990 Black -> snowroad
+15504748281990 Navy -> xmas_plaid
+15504748281990 Dark Grey Heather -> redpaper
+15504748281990 Athletic Heather -> xmas_gifts
+15504748281990 White -> xmas_snow
+15504748281990 variants re-pointed 25 | photos added 5
+Let Freedom Ring Unisex Long Sleeve Shirt 15504748281990 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 49 min
+15504753787014 Black print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15504753787014 Navy print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15504753787014 Dark Grey Heather print file 1116772369 default xmas26w3_03_honk_honk_ho_ho_tee_3x4_11cb007e-ecfb-4284-8a47-0499d67e5890.png url | all types ['default', 'preview']
+15504753787014 Athletic Heather print file 1118854430 front_large honk-honk-ho-ho-ho-light.png preview-only | all types ['front_large', 'preview']
+15504753787014 White print file 1118854430 front_large honk-honk-ho-ho-ho-light.png preview-only | all types ['front_large', 'preview']
+15504753787014 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504753787014 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504753787014 Black -> snowroad
+15504753787014 Navy -> redpaper
+15504753787014 Dark Grey Heather -> xmas_plaid
+15504753787014 Athletic Heather -> xmas_gifts
+15504753787014 White -> xmas_snow
+15504753787014 variants re-pointed 25 | photos added 5
+Honk Honk, Ho Ho Ho Unisex Long Sleeve Shirt 15504753787014 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 51 min
+15504759029894 Black print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15504759029894 Navy print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15504759029894 Dark Grey Heather print file 1116772316 default xmas26w3_02_defend_christmas_tee_3x4_bb3c798d-9de6-4b04-90e2-7a359575998f.png url | all types ['default', 'preview']
+15504759029894 Athletic Heather print file 1118720188 front_large defend-christmas-light.png preview-only | all types ['front_large', 'preview']
+15504759029894 White print file 1118720188 front_large defend-christmas-light.png preview-only | all types ['front_large', 'preview']
+15504759029894 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504759029894 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504759029894 Black -> snowroad
+15504759029894 Navy -> redpaper
+15504759029894 Dark Grey Heather -> xmas_plaid
+15504759029894 Athletic Heather -> xmas_gifts
+15504759029894 White -> xmas_snow
+15504759029894 variants re-pointed 25 | photos added 5
+Defend Christmas Unisex Long Sleeve Shirt 15504759029894 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 53 min
+15504764108934 Black print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15504764108934 Navy print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15504764108934 Dark Grey Heather print file 1116560262 default xmas26_fa_la_la_defund_the_cbc_tee_3x4.png url | all types ['default', 'preview']
+15504764108934 Athletic Heather print file 1119063946 front_large fa-la-la-la-la-defund-the-cbc-light.png preview-only | all types ['front_large', 'preview']
+15504764108934 White print file 1119063946 front_large fa-la-la-la-la-defund-the-cbc-light.png preview-only | all types ['front_large', 'preview']
+15504764108934 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504764108934 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504764108934 Black -> newsprint
+15504764108934 Navy -> snowroad
+15504764108934 Dark Grey Heather -> redpaper
+15504764108934 Athletic Heather -> newsdesk
+15504764108934 White -> xmas_gifts
+15504764108934 variants re-pointed 25 | photos added 5
+Fa La La La La, Defund the CBC Unisex Long Sleeve Shirt 15504764108934 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 55 min
+15504768860294 Black print file 1116560244 default xmas26_all_is_calm_all_is_taxed_tee_3x4.png url | all types ['default', 'preview']
+15504768860294 Navy print file 1116560244 default xmas26_all_is_calm_all_is_taxed_tee_3x4.png url | all types ['default', 'preview']
+15504768860294 Dark Grey Heather print file 1116560244 default xmas26_all_is_calm_all_is_taxed_tee_3x4.png url | all types ['default', 'preview']
+15504768860294 Athletic Heather print file 1119059370 front_large all-is-calm-all-is-taxed-light.png preview-only | all types ['front_large', 'preview']
+15504768860294 White print file 1119059370 front_large all-is-calm-all-is-taxed-light.png preview-only | all types ['front_large', 'preview']
+15504768860294 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504768860294 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504768860294 Black -> newsprint
+15504768860294 Navy -> snowroad
+15504768860294 Dark Grey Heather -> redpaper
+15504768860294 Athletic Heather -> newsdesk
+15504768860294 White -> xmas_gifts
+15504768860294 variants re-pointed 25 | photos added 5
+All Is Calm, All Is Taxed Unisex Long Sleeve Shirt 15504768860294 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 56 min
+15504774430854 Black print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15504774430854 Navy print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15504774430854 Dark Grey Heather print file 1116560227 default xmas26_carney_stole_christmas_tee_3x4.png url | all types ['default', 'preview']
+15504774430854 Athletic Heather print file 1119061720 front_large carney-stole-christmas-light.png preview-only | all types ['front_large', 'preview']
+15504774430854 White print file 1119061720 front_large carney-stole-christmas-light.png preview-only | all types ['front_large', 'preview']
+15504774430854 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504774430854 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504774430854 Black -> newsprint
+15504774430854 Navy -> snowroad
+15504774430854 Dark Grey Heather -> redpaper
+15504774430854 Athletic Heather -> newsdesk
+15504774430854 White -> xmas_gifts
+15504774430854 variants re-pointed 25 | photos added 5
+Carney Stole Christmas Unisex Long Sleeve Shirt 15504774430854 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 58 min
+15504779346054 Black print file 1115856951 default campaign_free_danny_tommo_tee_3x4.png preview-only | all types ['default', 'preview']
+15504779346054 Navy print file 1115856951 default campaign_free_danny_tommo_tee_3x4.png preview-only | all types ['default', 'preview']
+15504779346054 Dark Grey Heather print file 1115856951 default campaign_free_danny_tommo_tee_3x4.png preview-only | all types ['default', 'preview']
+15504779346054 Athletic Heather print file 1119089438 front_large free-danny-tommo-light.png preview-only | all types ['front_large', 'preview']
+15504779346054 White print file 1119089438 front_large free-danny-tommo-light.png preview-only | all types ['front_large', 'preview']
+15504779346054 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504779346054 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504779346054 Black -> newsprint
+15504779346054 Navy -> newsprint
+15504779346054 Dark Grey Heather -> redpaper
+15504779346054 Athletic Heather -> newsdesk
+15504779346054 White -> navy
+15504779346054 variants re-pointed 25 | photos added 5
+Free Danny Tommo Unisex Long Sleeve Shirt 15504779346054 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 60 min
+15504784392326 Black print file 1116958181 default rn26_jinac.png url | all types ['default', 'preview']
+15504784392326 Navy print file 1116958181 default rn26_jinac.png url | all types ['default', 'preview']
+15504784392326 Dark Grey Heather print file 1116958181 default rn26_jinac.png url | all types ['default', 'preview']
+15504784392326 Athletic Heather print file 1119105024 front_large journalism-is-not-a-crime-light.png preview-only | all types ['front_large', 'preview']
+15504784392326 White print file 1119105024 front_large journalism-is-not-a-crime-light.png preview-only | all types ['front_large', 'preview']
+15504784392326 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504784392326 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504784392326 Black -> beach
+15504784392326 Navy -> newsprint
+15504784392326 Dark Grey Heather -> beach
+15504784392326 Athletic Heather -> newsdesk
+15504784392326 White -> navy
+15504784392326 variants re-pointed 25 | photos added 5
+Journalism Is Not a Crime Unisex Long Sleeve Shirt 15504784392326 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 62 min
+15504788783238 Black print file 1115858270 default xmas26_naughty_list_tee_3x4.png preview-only | all types ['default', 'preview']
+15504788783238 Navy print file 1115858270 default xmas26_naughty_list_tee_3x4.png preview-only | all types ['default', 'preview']
+15504788783238 Dark Grey Heather print file 1115858270 default xmas26_naughty_list_tee_3x4.png preview-only | all types ['default', 'preview']
+15504788783238 Athletic Heather print file 1119065966 front_large im-on-the-naughty-list-for-doing-journalism-light.png preview-only | all types ['front_large', 'preview']
+15504788783238 White print file 1119065966 front_large im-on-the-naughty-list-for-doing-journalism-light.png preview-only | all types ['front_large', 'preview']
+15504788783238 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504788783238 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504788783238 Black -> newsprint
+15504788783238 Navy -> snowroad
+15504788783238 Dark Grey Heather -> redpaper
+15504788783238 Athletic Heather -> xmas_gifts
+15504788783238 White -> newsdesk
+15504788783238 variants re-pointed 25 | photos added 5
+I'm on the Naughty List (For Doing Journalism) Unisex Long Sleeve Shirt 15504788783238 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 63 min
+15504792846470 Black print file 1115857822 default xmas26_jingle_carney_tee_3x4.png preview-only | all types ['default', 'preview']
+15504792846470 Navy print file 1115857822 default xmas26_jingle_carney_tee_3x4.png preview-only | all types ['default', 'preview']
+15504792846470 Dark Grey Heather print file 1115857822 default xmas26_jingle_carney_tee_3x4.png preview-only | all types ['default', 'preview']
+15504792846470 Athletic Heather print file 1119067129 front_large jingle-bells-carney-sells-light.png preview-only | all types ['front_large', 'preview']
+15504792846470 White print file 1119067129 front_large jingle-bells-carney-sells-light.png preview-only | all types ['front_large', 'preview']
+15504792846470 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504792846470 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504792846470 Black -> newsprint
+15504792846470 Navy -> snowroad
+15504792846470 Dark Grey Heather -> redpaper
+15504792846470 Athletic Heather -> xmas_gifts
+15504792846470 White -> newsdesk
+15504792846470 variants re-pointed 25 | photos added 5
+Jingle Bells, Carney Sells Unisex Long Sleeve Shirt 15504792846470 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 65 min
+15504797171846 Black print file 1115857697 default xmas26_fringe_minority_tee_3x4.png preview-only | all types ['default', 'preview']
+15504797171846 Navy print file 1115857697 default xmas26_fringe_minority_tee_3x4.png preview-only | all types ['default', 'preview']
+15504797171846 Dark Grey Heather print file 1115857697 default xmas26_fringe_minority_tee_3x4.png preview-only | all types ['default', 'preview']
+15504797171846 Athletic Heather print file 1119068100 front_large merry-christmas-to-the-small-fringe-minority-light.png preview-only | all types ['front_large', 'preview']
+15504797171846 White print file 1119068100 front_large merry-christmas-to-the-small-fringe-minority-light.png preview-only | all types ['front_large', 'preview']
+15504797171846 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504797171846 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504797171846 Black -> newsprint
+15504797171846 Navy -> snowroad
+15504797171846 Dark Grey Heather -> redpaper
+15504797171846 Athletic Heather -> xmas_gifts
+15504797171846 White -> newsdesk
+15504797171846 variants re-pointed 25 | photos added 5
+Merry Christmas to the Small Fringe Minority Unisex Long Sleeve Shirt 15504797171846 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 67 min
+15504801726598 Black print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15504801726598 Navy print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15504801726598 Dark Grey Heather print file 1115858534 default xmas26_still_new_pm_tee_3x4.png preview-only | all types ['default', 'preview']
+15504801726598 Athletic Heather print file 1118989563 front_large all-i-want-for-christmas-is-still-a-new-prime-minister-light.png preview-only | all types ['front_large', 'preview']
+15504801726598 White print file 1118989563 front_large all-i-want-for-christmas-is-still-a-new-prime-minister-light.png preview-only | all types ['front_large', 'preview']
+15504801726598 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504801726598 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504801726598 Black -> newsprint
+15504801726598 Navy -> snowroad
+15504801726598 Dark Grey Heather -> redpaper
+15504801726598 Athletic Heather -> xmas_gifts
+15504801726598 White -> newsdesk
+15504801726598 variants re-pointed 25 | photos added 5
+All I Want for Christmas Is (Still) a New Prime Minister Unisex Long Sleeve Shirt 15504801726598 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 69 min
+15504806379654 Black print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15504806379654 Navy print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15504806379654 Dark Grey Heather print file 1115858016 default xmas26_merry_christmas_tee_3x4.png preview-only | all types ['default', 'preview']
+15504806379654 Athletic Heather print file 1118730900 front_large its-merry-christmas-light.png preview-only | all types ['front_large', 'preview']
+15504806379654 White print file 1118730900 front_large its-merry-christmas-light.png preview-only | all types ['front_large', 'preview']
+15504806379654 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Athletic Heather': [], 'White': []} | lead photo NEW | photos 0
+15504806379654 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Athletic Heather': 'NEW', 'White': 'NEW'}
+15504806379654 Black -> linen
+15504806379654 Navy -> snowroad
+15504806379654 Dark Grey Heather -> linen
+15504806379654 Athletic Heather -> xmas_gifts
+15504806379654 White -> xmas_snow
+15504806379654 variants re-pointed 25 | photos added 5
+It's Merry Christmas Unisex Long Sleeve Shirt 15504806379654 | Black, Navy, Dark Grey Heather, Athletic Heather, White | READY, hidden | 70 min
+15504810377350 Black print file 629224539 front_large Rebel-Red-Box-Logo-White-Fill.png preview-only | all types ['front_large', 'preview']
+15504810377350 Navy print file 629224539 front_large Rebel-Red-Box-Logo-White-Fill.png preview-only | all types ['front_large', 'preview']
+15504810377350 Dark Grey Heather print file 266013488 default Rebel-Red-Box-transp.png preview-only | all types ['default', 'preview']
+15504810377350 Black Heather print file 629224539 front_large Rebel-Red-Box-Logo-White-Fill.png preview-only | all types ['front_large', 'preview']
+15504810377350 White print file 266013488 front_large Rebel-Red-Box-transp.png preview-only | all types ['front_large', 'preview']
+15504810377350 LINKS now: {'Black': [], 'Navy': [], 'Dark Grey Heather': [], 'Black Heather': [], 'White': []} | lead photo NEW | photos 0
+15504810377350 PLAN: {'Black': 'NEW', 'Navy': 'NEW', 'Dark Grey Heather': 'NEW', 'Black Heather': 'NEW', 'White': 'NEW'}
+15504810377350 Black -> newsprint
+15504810377350 Navy -> newsprint
+15504810377350 Dark Grey Heather -> redpaper
+15504810377350 Black Heather -> newsprint
+15504810377350 White -> newsdesk
+15504810377350 variants re-pointed 25 | photos added 5
+REBEL Logo Unisex Long Sleeve Shirt 15504810377350 | Black, Navy, Dark Grey Heather, Black Heather, White | READY, hidden | 72 min
+SUMMARY {'READY, hidden': 41} | stock put at Printful location: False
