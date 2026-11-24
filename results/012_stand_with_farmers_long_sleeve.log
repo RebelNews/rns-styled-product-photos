@@ -1,0 +1,12 @@
+long-sleeve blank: Printful product 356 | colours ['Athletic Heather', 'Black', 'Black Heather', 'Dark Grey Heather', 'Gold', 'Heather Deep Teal', 'Heather Forest', 'Heather Mauve', 'Heather Navy', 'Maroon', 'Military Green', 'Navy', 'Red', 'Storm', 'True Royal', 'White']
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+  stock at Printful refused: [{'field': ['input', 'variants', '0', 'sku'], 'message': "SKU can't be blank", 'code': 'INVALID_VARIANT'}, {'field': ['input', 'variants', '1', 'sku'], 'message': "SKU can't be blank", 'code': 'INVALID_VARIANT'}]
+15504894230662 Military Green print file 571034192 default Support_Farmers_Design-02.png preview-only | all types ['default', 'preview']
+15504894230662 White print file 571034151 default Support_Farmers_Design-01.png preview-only | all types ['default', 'preview']
+15504894230662 LINKS now: {'Military Green': [], 'White': []} | lead photo NEW | photos 0
+15504894230662 PLAN: {'Military Green': 'NEW', 'White': 'NEW'}
+15504894230662 Military Green -> maple
+15504894230662 White -> wood
+15504894230662 variants re-pointed 10 | photos added 2
+Stand With Farmers Unisex Long Sleeve Shirt 15504894230662 | Military Green, White | READY, hidden | 1 min
+SUMMARY {'READY, hidden': 1} | stock put at Printful location: False
