@@ -1,0 +1,68 @@
+shopify token ok; scopes: write_products,write_files,write_publications,write_online_store_navigation
+15493775229062 Black print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775229062 Navy print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775229062 Dark Grey Heather print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775229062 Athletic Heather print file 1119089622 front_large defund-the-abc-light.png preview-only | all types ['front_large', 'preview']
+15493775229062 White print file 1119089622 front_large defund-the-abc-light.png preview-only | all types ['front_large', 'preview']
+15493775229062 Black -> beach
+15493775229062 Navy -> outback
+15493775229062 Dark Grey Heather -> beach
+15493775229062 Athletic Heather -> outback
+15493775229062 White -> outback
+15493775229062 swapped 5
+15493775458438 Black print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775458438 Navy print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775458438 Dark Grey Heather print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775458438 Athletic Heather print file 1119089622 default defund-the-abc-light.png preview-only | all types ['default', 'preview']
+15493775458438 White print file 1119089622 default defund-the-abc-light.png preview-only | all types ['default', 'preview']
+15493775458438 Navy -> newsprint
+15493775458438 Black -> redpaper
+15493775458438 Dark Grey Heather -> newsprint
+15493775458438 Athletic Heather -> newsdesk
+15493775458438 White -> navy
+15493775458438 swapped 5
+15493775622278 Black print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775622278 Navy print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775622278 Dark Heather print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775622278 Sport Grey print file 1119089622 default defund-the-abc-light.png preview-only | all types ['default', 'preview']
+15493775622278 White print file 1119089622 default defund-the-abc-light.png preview-only | all types ['default', 'preview']
+15493775622278 Black -> newsprint
+15493775622278 Navy -> redpaper
+15493775622278 Dark Heather -> newsprint
+15493775622278 Sport Grey -> newsdesk
+15493775622278 White -> navy
+15493775622278 swapped 5
+15493775753350 Black print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775753350 Navy print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775753350 Dark Heather print file 1117450807 default rn26r_40_art.png url | all types ['default', 'preview']
+15493775753350 Sport Grey print file 1119089622 default defund-the-abc-light.png preview-only | all types ['default', 'preview']
+15493775753350 White print file 1119089622 default defund-the-abc-light.png preview-only | all types ['default', 'preview']
+15493775753350 Black -> beach
+15493775753350 Navy -> beach
+15493775753350 Dark Heather -> outback
+15493775753350 Sport Grey -> outback
+15493775753350 White -> outback
+15493775753350 swapped 5
+15491570237574 Black print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570237574 Navy print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570237574 Dark Heather print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570237574 Sport Grey print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570237574 White print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570237574 Black -> beach
+15491570237574 Navy -> beach
+15491570237574 Dark Heather -> outback
+15491570237574 Sport Grey -> outback
+15491570237574 White -> outback
+15491570237574 swapped 5
+15491570073734 Black print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570073734 Navy print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570073734 Dark Grey Heather print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570073734 Athletic Heather print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570073734 White print file 733524697 default Stand-With-Israel-Store-Design.png preview-only | all types ['default', 'preview']
+15491570073734 Navy -> beach
+15491570073734 Black -> beach
+15491570073734 Dark Grey Heather -> outback
+15491570073734 Athletic Heather -> outback
+15491570073734 White -> outback
+15491570073734 swapped 5
+TOTAL swapped 30 errors 0
