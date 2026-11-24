@@ -11,7 +11,7 @@ concurrency: quick
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 50
     steps:
       - uses: actions/checkout@v4
         with:
@@ -20,11 +20,12 @@ jobs:
             quick
             results
             posters/posters.json
+            bg
           sparse-checkout-cone-mode: false
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - run: pip install -q requests
+      - run: pip install -q requests pillow numpy opencv-python-headless
       - name: Run quick jobs that have no result yet
         env:
           SHOPIFY_STORE: the-rebel-store.myshopify.com
@@ -36,7 +37,7 @@ jobs:
           for f in quick/*.py; do
             n=quick_$(basename "$f" .py)
             if [ ! -f "results/$n.log" ]; then
-              PYTHONPATH=tools timeout 1500 python "$f" > "results/$n.log" 2>&1 || echo "EXIT $?" >> "results/$n.log"
+              PYTHONPATH=tools timeout 2700 python "$f" > "results/$n.log" 2>&1 || echo "EXIT $?" >> "results/$n.log"
               tail -n 5 "results/$n.log"
             fi
           done
