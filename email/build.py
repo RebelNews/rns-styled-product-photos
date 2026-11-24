@@ -59,7 +59,7 @@ DISCOUNT CODE BOX (gold dashed):
        btn('LINK','Shop the collection'),
        row({'link':'LINK','img':'IMAGE_URL','name':'PRODUCT NAME','price':'$39 CAD'},{'link':'LINK','img':'IMAGE_URL','name':'PRODUCT NAME','price':'$39 CAD'}),
        box('Use code CODE for 15% off until DATE', kind='code'))
-XMAS_SNIPPETS = '''CHRISTMAS: ORDER-BY DEADLINE BOX (green; use the right date for the audience, e.g. Dec. 10 for Canada, 5 December for Australia):
+XMAS_SNIPPETS = '''CHRISTMAS: ORDER-BY DEADLINE BOX (green; use the right date for the audience, Printful 2026: Dec. 9 for Canada and the U.S., 1 December for Australia and the U.K.; New Zealand closed Nov. 23):
 %s
 
 CHRISTMAS: SNOWFLAKE DIVIDER (between sections):

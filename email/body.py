@@ -15,7 +15,7 @@ body='\n'.join([
  hero(X,'https://cdn.shopify.com/s/files/1/0825/9255/collections/christmas_2026_hero_mobile.jpg?v=1795117163&width=1056','Rebel News Store Christmas Shop 2026'),
  h1('The Christmas Shop is open'),
  p('Our Christmas 2026 collection is in the store, with new designs including Carney Stole Christmas, All Is Calm, All Is Taxed and Fa La La La La, Defund the CBC. There&rsquo;s a Rebel News ceramic ornament for the tree and a mug for the stocking, too.'),
- p('Everything is made to order, and most orders arrive in 5 to 15 business days. Order by '+strong('December 10')+' for Christmas delivery in Canada and the U.S.'),
+ p('Everything is made to order, and most orders arrive in 5 to 15 business days. Order by '+strong('December 9')+' for Christmas delivery in Canada and the U.S.'),
  p('Shipping is free on orders over $100, and every purchase supports our independent journalism.'),
  btn(X,'Shop the Christmas collection'),
  h2('New this Christmas'), row(P[0],P[1]), row(P[2],P[3]), row(P[4],P[5]),
